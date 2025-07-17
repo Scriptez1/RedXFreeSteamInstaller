@@ -47,5 +47,3 @@ YouTube kanalımda detaylı anlatımlar ve güncellemeler paylaşıyorum:
 **Döküman TV** — [https://www.youtube.com/@dokuman_tv](https://www.youtube.com/@dokuman_tv) 🎥
 
 ---
-
-# Hadi başlayalım, Steam hesabını şenlendirelim! 🎉🔥
