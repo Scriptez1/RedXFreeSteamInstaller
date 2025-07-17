@@ -44,7 +44,7 @@ Bu araç sayesinde **Steam hesabına ücretsiz olarak** hem ücretsiz hem de üc
 ## 📺 Daha Fazla İçerik İçin
 
 YouTube kanalımda detaylı anlatımlar ve güncellemeler paylaşıyorum:  
-**Döküman TV** — [https://www.youtube.com/@DokumanTV](https://www.youtube.com/@DokumanTV) 🎥
+**Döküman TV** — [https://www.youtube.com/@dokuman_tv](https://www.youtube.com/@dokuman_tv) 🎥
 
 ---
 
