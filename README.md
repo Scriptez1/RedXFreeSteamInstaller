@@ -13,34 +13,33 @@ Bu araç sayesinde **Steam hesabına ücretsiz olarak** hem ücretsiz hem de üc
 
 ---
 
-## ⚡ Ne İşe Yarar?
+## 🚀 Projenin Amacı
 
-- Oyun ve DLC ID’lerini **SteamDB’den almanı öneririz** 📊  
-- Steam hesabına **giriş yapmana gerek yok!** Oyunlar doğrudan **Steam’in kendi sistemine eklenir** (API kullanılmaz) 🎯  
-- Oyunların sadece **story modu oynanır**, online mod için **online fix kurulmadıkça** erişim mümkün değildir ⚠️  
-- GTA5, RDR2 gibi üçüncü taraf platformlar (SocialClub, Ubisoft vb.) gerektiren oyunlarda çalışmaz ⚠️  
-- Sürekli güncellenmekte ve geliştirilmektedir 🔄  
-- Eklenmesini istediğin oyun ya da DLC varsa bana ulaşabilirsin! 📬
-
----
-
-## 🛠️ Nasıl Kullanılır?
-
-1. SteamDB’den oyun veya DLC AppID’lerini bul 🔍  
-2. Programı indir ve çalıştır 💻  
-3. Oyunlar otomatik olarak Steam hesabına eklenir 🎉  
-4. Oyun keyfini çıkar! 😎
+- Steam hesabına zahmetsizce oyun ve DLC eklemek isteyen herkes için tasarlandı.  
+- Teknik bilgi gerektirmeden kolayca kullanılır.  
+- Hem ücretsiz hem ücretli oyunları destekler.  
+- Oyunları doğrudan Steam sistemine ekler, ekstra hesap işlemi veya giriş gerektirmez.  
+- Sürekli güncelleniyor, yeni oyunlar ve özellikler ekleniyor.  
+- Güvenli ve hızlı bir yöntem sunar.  
 
 ---
 
 ## ❗ Önemli Notlar
 
-- Program **Steam hesabına giriş yapmaz** ve şifreni istemez 🔐  
-- Oyunları doğrudan Steam’in altyapısına ekler, bu yüzden güvenlidir ✅  
-- Bazı oyunlar üçüncü taraf platformlar gerektirebilir ve bu araçla çalışmayabilir ⚠️  
-- Sürekli güncelleniyor, yeni özellikler geliyor! 🚀
+- Oyun ve DLC ID’lerini **SteamDB’den almanı öneririz** 📊  
+- Steam hesabına **giriş yapmana gerek yok!** Oyunlar doğrudan **Steam’in kendi sistemine eklenir** 🎯  
+- Oyunların sadece **story modu oynanır**, online mod için **online fix kurulmadıkça** erişim mümkün değildir ⚠️  
+- GTA5, RDR2 gibi üçüncü taraf platformlar (SocialClub, Ubisoft vb.) gerektiren oyunlarda çalışmaz ⚠️  
+- Sürekli güncellenmekte ve geliştirilmektedir 🔄  
+- Eklenmesini istediğin oyun ya da DLC varsa bana ulaşabilirsin! 📬
 
----
+## 🛠️ Nasıl Kullanılır?
+
+1. SteamDB’den oyun veya DLC AppID’lerini bul 🔍  
+2. Programı indir ve çalıştır 💻
+3. Oyun indir sekmesine tıkla ve AppId'yi buraya gir.
+4. Oyunlar otomatik olarak Steam hesabına eklenir 🎉  
+5. Oyun keyfini çıkar! 😎
 
 ## 📺 Daha Fazla İçerik İçin
 
