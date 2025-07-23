@@ -32,6 +32,7 @@ Bu araç sayesinde **Steam hesabına ücretsiz olarak** hem ücretsiz hem de üc
 - GTA5, RDR2 gibi üçüncü taraf platformlar (SocialClub, Ubisoft vb.) gerektiren oyunlarda çalışmaz ⚠️  
 - Sürekli güncellenmekte ve geliştirilmektedir 🔄  
 - Eklenmesini istediğin oyun ya da DLC varsa bana ulaşabilirsin! 📬
+- Denuvo olan oyunlarda çalışmaz, Denuvo olan oyunlara [buradan](https://www.pcgamingwiki.com/wiki/Denuvo) ulaşabilirsiniz.
 
 ## 🛠️ Nasıl Kullanılır?
 
