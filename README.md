@@ -44,7 +44,7 @@ Choose your preferred language for documentation:
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x500/0a0a0a/c41e3a?text=RedX+Game+Library+Screenshot" alt="Main Interface">
+  <img src="<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/e0075560-0eb2-4a4e-9b6b-853f599bf920" />" alt="Main Interface">
   <p><em>Modern game library interface with red-black theme</em></p>
 </div>
 
@@ -115,3 +115,4 @@ This application is for educational purposes only. Please use it in accordance w
   [![GitHub issues](https://img.shields.io/github/issues/Scriptez1/RedXFreeSteamInstaller)](https://github.com/Scriptez1/RedXFreeSteamInstaller/issues)
 
 </div>
+
