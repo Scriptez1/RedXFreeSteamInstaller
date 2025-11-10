@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <div align="center">
-  <img src="banner.png" alt="RedX Game Library" width="800">
+  <img src="https://github.com/user-attachments/assets/ec1967c9-5727-4d97-9de5-3e9408e01ee4" alt="RedX Game Library" width="300">
   
   **A modern, multi-language Steam game library manager with an elegant red-black theme**
 </div>
@@ -44,7 +44,7 @@ Choose your preferred language for documentation:
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e0075560-0eb2-4a4e-9b6b-853f599bf920" alt="Main Interface">
+  <img src="https://github.com/user-attachments/assets/174c4269-96df-48f2-bc7f-5b2d4731d518" alt="Main Interface">
   <p><em>Modern game library interface with red-black theme</em></p>
 </div>
 
@@ -115,6 +115,7 @@ This application is for educational purposes only. Please use it in accordance w
   [![GitHub issues](https://img.shields.io/github/issues/Scriptez1/RedXFreeSteamInstaller)](https://github.com/Scriptez1/RedXFreeSteamInstaller/issues)
 
 </div>
+
 
 
 
