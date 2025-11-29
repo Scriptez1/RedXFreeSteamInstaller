@@ -2,9 +2,16 @@
 
 **Modern Steam Oyun Kütüphanesi ve Yöneticisi**
 
-![Version](https://img.shields.io/badge/version-v1.4-red)
-![Language](https://img.shields.io/badge/language-Python-blue)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Version](https://img.shields.io/badge/Versiyon-v2.1-red)
+![Language](https://img.shields.io/badge/Dil-Python-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/Lisans-CPL-green)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/642c0a5c-47d0-4beb-adb9-cbed85031666" alt="RedX Game Library" width="800">
+
+  **A modern, multi-language Steam game library manager with an elegant red-black theme**
+</div>
 
 ## 📋 İçindekiler
 
@@ -140,5 +147,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 Bu uygulama eğitim amaçlıdır. Steam'in kullanım şartlarına uygun şekilde kullanın.
 
 ---
+
 
 **RedX Game Library** - Modern Steam Oyun Yöneticisi 🎮
