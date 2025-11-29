@@ -36,6 +36,7 @@
 - 🇩🇪 **German**
 - 🇷🇺 **Russian**
 - 🇯🇵 **Japanese**
+- 🇨🇳 **Chinese**
 
 ### 🎮 Game Management
 - **Game Search**: Fast and effective search system
@@ -87,42 +88,21 @@ The application supports the following languages:
 | German | `de` | ✅ Full Support |
 | Russian | `ru` | ✅ Full Support |
 | Japanese | `ja` | ✅ Full Support |
+| Chinese | `zh` | ✅ Full Support |
 
 ## 💻 System Requirements
 
 ### Minimum Requirements
 - **Operating System**: Windows 10 or higher
 - **RAM**: 4 GB
-- **Storage**: 100 MB free space
+- **Storage**: 50 MB free space
 - **Internet**: Active connection required
 
 ### Recommended Requirements
 - **Operating System**: Windows 11
 - **RAM**: 8 GB
-- **Storage**: 500 MB free space
+- **Storage**: 100 MB free space
 - **Internet**: Fast connection
-
-## 📁 Project Structure
-
-```
-RedXFreeSteamInstaller/
-├── gui.py              # Main GUI application
-├── index.py            # Game download and processing module
-├── languages.py        # Multi-language support
-├── config.py           # Configuration file
-├── changes.txt         # Change log
-└── resources/          # Resource files
-    ├── icon.ico        # Application icon
-    ├── games.json      # Game database
-    ├── censored.png    # Censorship image
-    ├── redx.dll        # Steam plugin
-    └── flags/          # Flag images
-        ├── TRflag.png
-        ├── ENflag.png
-        ├── DEflag.png
-        ├── RUflag.png
-        └── JPflag.png
-```
 
 ## 🤝 Contributing
 
@@ -134,7 +114,7 @@ RedXFreeSteamInstaller/
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the CPL License. See the `LICENSE` file for details.
 
 ## 🔗 Links
 
@@ -150,4 +130,5 @@ This application is for educational purposes. Use it in accordance with Steam's 
 
 
 **RedX Game Library** - Modern Steam Game Manager 🎮
+
 
