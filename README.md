@@ -24,6 +24,7 @@ Choose your preferred language for documentation:
 | 🇩🇪 **Deutsch** | [README_DE.md](README_DE.md) |
 | 🇷🇺 **Русский** | [README_RU.md](README_RU.md) |
 | 🇯🇵 **日本語** | [README_JA.md](README_JA.md) |
+| 🇯🇵 **中文** | [README_ZH.md](README_ZH.md) |
 
 ## 🚀 Quick Start
 
@@ -72,6 +73,7 @@ We welcome contributions! Please see the language-specific README files for deta
 - [German Contributors](README_DE.md#-mitwirken)
 - [Russian Contributors](README_RU.md#-участие-в-разработке)
 - [Japanese Contributors](README_JA.md#-貢献)
+- [Chinese Contributors](README_ZH.md#-参与开发)
 
 ## 📋 System Requirements
 
@@ -79,7 +81,7 @@ We welcome contributions! Please see the language-specific README files for deta
 |-----------|---------|-------------|
 | **OS** | Windows 10 | Windows 11 |
 | **RAM** | 4 GB | 8 GB |
-| **Storage** | 100 MB | 500 MB |
+| **Storage** | 50 MB | 100 MB |
 | **Internet** | Required | High-speed |
 
 ## 🔗 Links
@@ -91,7 +93,7 @@ We welcome contributions! Please see the language-specific README files for deta
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CPL License - see the [LICENSE](LICENSE) file for details.
 
 ## ⚠️ Disclaimer
 
@@ -115,6 +117,7 @@ This application is for educational purposes only. Please use it in accordance w
   [![GitHub issues](https://img.shields.io/github/issues/Scriptez1/RedXFreeSteamInstaller)](https://github.com/Scriptez1/RedXFreeSteamInstaller/issues)
 
 </div>
+
 
 
 
