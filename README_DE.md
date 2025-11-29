@@ -36,6 +36,7 @@
 - 🇩🇪 **Deutsch**
 - 🇷🇺 **Russisch**
 - 🇯🇵 **Japanisch**
+- 🇨🇳 **Chinesisch**
 
 ### 🎮 Spielverwaltung
 - **Spielsuche**: Schnelles und effektives Suchsystem
@@ -87,6 +88,7 @@ Die Anwendung unterstützt folgende Sprachen:
 | Deutsch | `de` | ✅ Vollständige Unterstützung |
 | Russisch | `ru` | ✅ Vollständige Unterstützung |
 | Japanisch | `ja` | ✅ Vollständige Unterstützung |
+| Chinesisch | `zh` | ✅ Vollständige Unterstützung |
 
 ## 💻 Systemanforderungen
 
@@ -112,7 +114,7 @@ Die Anwendung unterstützt folgende Sprachen:
 
 ## 📝 Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe die `LICENSE`-Datei für Details.
+Dieses Projekt ist unter der CPL-Lizenz lizenziert. Siehe die `LICENSE`-Datei für Details.
 
 ## 🔗 Links
 
@@ -128,5 +130,6 @@ Diese Anwendung dient Bildungszwecken. Verwenden Sie sie in Übereinstimmung mit
 
 
 **RedX Game Library** - Moderner Steam-Spiel-Manager 🎮
+
 
 
