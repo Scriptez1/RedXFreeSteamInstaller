@@ -24,7 +24,7 @@ Choose your preferred language for documentation:
 | 🇩🇪 **Deutsch** | [README_DE.md](README_DE.md) |
 | 🇷🇺 **Русский** | [README_RU.md](README_RU.md) |
 | 🇯🇵 **日本語** | [README_JA.md](README_JA.md) |
-| 🇯🇵 **中文** | [README_ZH.md](README_ZH.md) |
+| 🇨🇳 **中文** | [README_ZH.md](README_ZH.md) |
 
 ## 🚀 Quick Start
 
@@ -117,6 +117,7 @@ This application is for educational purposes only. Please use it in accordance w
   [![GitHub issues](https://img.shields.io/github/issues/Scriptez1/RedXFreeSteamInstaller)](https://github.com/Scriptez1/RedXFreeSteamInstaller/issues)
 
 </div>
+
 
 
 
