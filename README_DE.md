@@ -93,36 +93,14 @@ Die Anwendung unterstützt folgende Sprachen:
 ### Mindestanforderungen
 - **Betriebssystem**: Windows 10 oder höher
 - **RAM**: 4 GB
-- **Speicher**: 100 MB freier Speicherplatz
+- **Speicher**: 50 MB freier Speicherplatz
 - **Internet**: Aktive Verbindung erforderlich
 
 ### Empfohlene Anforderungen
 - **Betriebssystem**: Windows 11
 - **RAM**: 8 GB
-- **Speicher**: 500 MB freier Speicherplatz
+- **Speicher**: 100 MB freier Speicherplatz
 - **Internet**: Schnelle Verbindung
-
-## 📁 Projektstruktur
-
-```
-RedXFreeSteamInstaller/
-├── gui.py              # Haupt-GUI-Anwendung
-├── index.py            # Spiel-Download und Verarbeitungsmodul
-├── languages.py        # Mehrsprachige Unterstützung
-├── config.py           # Konfigurationsdatei
-├── changes.txt         # Änderungsprotokoll
-└── resources/          # Ressourcendateien
-    ├── icon.ico        # Anwendungssymbol
-    ├── games.json      # Spieldatenbank
-    ├── censored.png    # Zensurbild
-    ├── redx.dll        # Steam-Plugin
-    └── flags/          # Flaggenbilder
-        ├── TRflag.png
-        ├── ENflag.png
-        ├── DEflag.png
-        ├── RUflag.png
-        └── JPflag.png
-```
 
 ## 🤝 Mitwirken
 
@@ -150,4 +128,5 @@ Diese Anwendung dient Bildungszwecken. Verwenden Sie sie in Übereinstimmung mit
 
 
 **RedX Game Library** - Moderner Steam-Spiel-Manager 🎮
+
 
