@@ -1,21 +1,68 @@
-MIT License
-
+Custom Proprietary License
 Copyright (c) 2025 Script.ez
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Lisans Sahibi
+Bu yazılımın tüm hakları [Senin İsmin veya Şirketin]’e aittir. Bu lisans, yazılımın kullanımını düzenler.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Lisans Kapsamı
+Bu yazılım yalnızca çalıştırılmak amacıyla kullanıcıya lisanslanmıştır. Kullanıcı bu yazılımı:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Kopyalayamaz
+
+Dağıtamaz
+
+Satamaz veya ticari amaçla paylaşamaz
+
+Tersine mühendislik, dekompilasyon veya modifikasyon yapamaz
+
+3. Sınırlamalar
+
+Yazılımın kaynak kodu gizlidir ve hiçbir şekilde açıklanamaz.
+
+Lisans sahibi yazılımın kullanımını herhangi bir zamanda sınırlama veya iptal etme hakkına sahiptir.
+
+4. Garanti ve Sorumluluk Reddi
+
+Bu yazılım “olduğu gibi” sağlanmaktadır.
+
+Yazılımın çalışması veya güvenliği konusunda lisans sahibi hiçbir garanti vermez.
+
+Kullanıcı yazılımı kullanırken oluşacak herhangi bir zarar veya kayıptan lisans sahibi sorumlu değildir.
+
+5. Kabul
+Bu yazılımı kullanarak, yukarıdaki şartları kabul etmiş olursunuz. Lisans şartlarını kabul etmiyorsanız, yazılımı kullanmayınız.
+
+--
+
+1. License Holder
+
+All rights to this software belong to [Your Name or Company]. This license governs the use of the software.
+
+2. Scope of License
+
+This software is licensed to the user for execution only. The user may not:
+
+Copy the software
+
+Distribute the software
+
+Sell or share the software for commercial purposes
+
+Reverse engineer, decompile, or modify the software
+
+3. Restrictions
+
+The source code of the software is confidential and must not be disclosed under any circumstances.
+
+The license holder reserves the right to limit or terminate the software usage at any time.
+
+4. Warranty and Liability Disclaimer
+
+This software is provided “as is.”
+
+The license holder makes no warranties regarding the performance or security of the software.
+
+The license holder is not responsible for any damages or losses arising from the use of the software.
+
+5. Acceptance
+By using this software, you agree to the terms above. If you do not accept these terms, do not use the software.
