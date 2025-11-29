@@ -2,9 +2,16 @@
 
 **Современная библиотека и менеджер игр Steam**
 
-![Version](https://img.shields.io/badge/version-v1.4-red)
-![Language](https://img.shields.io/badge/language-Python-blue)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Version](https://img.shields.io/badge/Версия-v2.1-red)
+![Language](https://img.shields.io/badge/Язык-Python-blue)
+![Platform](https://img.shields.io/badge/Платформа-Windows-lightgrey)
+![License](https://img.shields.io/badge/Лицензия-CPL-green)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/642c0a5c-47d0-4beb-adb9-cbed85031666" alt="RedX Game Library" width="800">
+
+  **Современный многоязычный менеджер библиотеки игр Steam с элегантной красно-черной темой**
+</div>
 
 ## 📋 Содержание
 
@@ -140,5 +147,6 @@ RedXFreeSteamInstaller/
 Это приложение предназначено для образовательных целей. Используйте его в соответствии с условиями использования Steam.
 
 ---
+
 
 **RedX Game Library** - Современный менеджер игр Steam 🎮
