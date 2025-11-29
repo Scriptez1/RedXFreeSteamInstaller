@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/642c0a5c-47d0-4beb-adb9-cbed85031666" alt="RedX Game Library" width="800">
 
-  **A modern, multi-language Steam game library manager with an elegant red-black theme**
+  **Şık kırmızı-siyah tema ile modern, çok dilli bir Steam oyun kütüphanesi yöneticisi**
 </div>
 
 ## 📋 İçindekiler
@@ -150,3 +150,4 @@ Bu uygulama eğitim amaçlıdır. Steam'in kullanım şartlarına uygun şekilde
 
 
 **RedX Game Library** - Modern Steam Oyun Yöneticisi 🎮
+
