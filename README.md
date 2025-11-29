@@ -60,7 +60,7 @@ Choose your preferred language for documentation:
 ## 📊 Project Stats
 
 - **Languages Supported**: 5
-- **Total Translations**: 70+ strings per language
+- **Total Translations**: 100+ strings per language
 - **File Structure**: Modular and organized
 - **Update System**: Automated via GitHub
 
@@ -117,6 +117,7 @@ This application is for educational purposes only. Please use it in accordance w
   [![GitHub issues](https://img.shields.io/github/issues/Scriptez1/RedXFreeSteamInstaller)](https://github.com/Scriptez1/RedXFreeSteamInstaller/issues)
 
 </div>
+
 
 
 
