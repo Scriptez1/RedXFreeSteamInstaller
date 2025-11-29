@@ -2,9 +2,16 @@
 
 **Modern Steam Game Library and Manager**
 
-![Version](https://img.shields.io/badge/version-v1.4-red)
+![Version](https://img.shields.io/badge/version-v2.1-red)
 ![Language](https://img.shields.io/badge/language-Python-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/license-CPL-green)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/642c0a5c-47d0-4beb-adb9-cbed85031666" alt="RedX Game Library" width="800">
+
+  **A modern, multi-language Steam game library manager with an elegant red-black theme**
+</div>
 
 ## 📋 Table of Contents
 
@@ -140,5 +147,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 This application is for educational purposes. Use it in accordance with Steam's terms of service.
 
 ---
+
 
 **RedX Game Library** - Modern Steam Game Manager 🎮
