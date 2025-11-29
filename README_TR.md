@@ -36,6 +36,7 @@
 - 🇩🇪 **Almanca**
 - 🇷🇺 **Rusça**
 - 🇯🇵 **Japonca**
+- 🇨🇳 **Çince**
 
 ### 🎮 Oyun Yönetimi
 - **Oyun Arama**: Hızlı ve etkili arama sistemi
@@ -87,42 +88,21 @@ Uygulama aşağıdaki dilleri destekler:
 | Almanca | `de` | ✅ Tam Destek |
 | Rusça | `ru` | ✅ Tam Destek |
 | Japonca | `ja` | ✅ Tam Destek |
+| Çince | `zh` | ✅ Tam Destek |
 
 ## 💻 Sistem Gereksinimleri
 
 ### Minimum Gereksinimler
 - **İşletim Sistemi**: Windows 10 veya üzeri
 - **RAM**: 4 GB
-- **Depolama**: 100 MB boş alan
+- **Depolama**: 50 MB boş alan
 - **İnternet**: Aktif bağlantı gerekli
 
 ### Önerilen Gereksinimler
 - **İşletim Sistemi**: Windows 11
 - **RAM**: 8 GB
-- **Depolama**: 500 MB boş alan
+- **Depolama**: 100 MB boş alan
 - **İnternet**: Hızlı bağlantı
-
-## 📁 Proje Yapısı
-
-```
-RedXFreeSteamInstaller/
-├── gui.py              # Ana GUI uygulaması
-├── index.py            # Oyun indirme ve işleme modülü
-├── languages.py        # Çoklu dil desteği
-├── config.py           # Yapılandırma dosyası
-├── changes.txt         # Değişiklik günlüğü
-└── resources/          # Kaynak dosyalar
-    ├── icon.ico        # Uygulama ikonu
-    ├── games.json      # Oyun veritabanı
-    ├── censored.png    # Sansür görseli
-    ├── redx.dll        # Steam eklentisi
-    └── flags/          # Bayrak görselleri
-        ├── TRflag.png
-        ├── ENflag.png
-        ├── DEflag.png
-        ├── RUflag.png
-        └── JPflag.png
-```
 
 ## 🤝 Katkıda Bulunma
 
@@ -134,7 +114,7 @@ RedXFreeSteamInstaller/
 
 ## 📝 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
+Bu proje CPL lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
 
 ## 🔗 Bağlantılar
 
@@ -150,4 +130,5 @@ Bu uygulama eğitim amaçlıdır. Steam'in kullanım şartlarına uygun şekilde
 
 
 **RedX Game Library** - Modern Steam Oyun Yöneticisi 🎮
+
 
