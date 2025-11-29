@@ -2,10 +2,10 @@
 
 **Modern Steam Game Library and Manager**
 
-![Version](https://img.shields.io/badge/version-v2.1-red)
-![Language](https://img.shields.io/badge/language-Python-blue)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![License](https://img.shields.io/badge/license-CPL-green)
+![Version](https://img.shields.io/badge/Version-v2.1-red)
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/License-CPL-green)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/642c0a5c-47d0-4beb-adb9-cbed85031666" alt="RedX Game Library" width="800">
@@ -115,6 +115,7 @@ This application is for educational purposes only. Please use it in accordance w
   [![GitHub issues](https://img.shields.io/github/issues/Scriptez1/RedXFreeSteamInstaller)](https://github.com/Scriptez1/RedXFreeSteamInstaller/issues)
 
 </div>
+
 
 
 
