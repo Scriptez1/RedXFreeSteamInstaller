@@ -1,1 +1,44 @@
-{"3527290":{"name":"PEAK","short_description":"PEAK is a co-op climbing game where the slightest mistake can spell your doom.","release_date":"16 June 2025","developers":["Team PEAK"],"publishers":["Aggro Crab", "Landfall"],"genres":["Adventure","Action"],"platforms":{"windows":true,"mac":false,"linux":false},"price_overview":{"currency":"USD","initial_price_cents":99,"final_price_cents":99,"discount_percent":20,"final_price_formatted":"$3.99"}}}
+{
+  "3527290": {
+    "name": "PEAK",
+    "version":"none",
+    "short_description": "PEAK is a co-op climbing game where the slightest mistake can spell your doom.",
+    "release_date": "16 June 2025",
+    "developers": ["Team PEAK"],
+    "publishers": ["Aggro Crab", "Landfall"],
+    "genres": ["Adventure", "Action"],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 499,
+      "final_price_cents": 399,
+      "discount_percent": 20,
+      "final_price_formatted": "$3.99"
+    }
+  },
+  "3241660": {
+    "name": "R.E.P.O.",
+    "version":"v0.3.2",
+    "short_description": "R.E.P.O. is a co-op horror game where physics-based interactions and teamwork are the key to surviving terrifying missions.",
+    "release_date": "26 February 2024",
+    "developers": ["semiwork"],
+    "publishers": ["semiwork"],
+    "genres": ["Horror", "Action", "Co-op"],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 999,
+      "final_price_cents": 999,
+      "discount_percent": 0,
+      "final_price_formatted": "$9.99"
+    }
+  }
+}
