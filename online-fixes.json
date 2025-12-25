@@ -24,7 +24,7 @@
   "3241660": {
     "name": "R.E.P.O.",
     "version":"v0.3.2",
-    "working":0,
+    "working":1,
     "short_description": "R.E.P.O. is a co-op horror game where physics-based interactions and teamwork are the key to surviving terrifying missions.",
     "release_date": "26 February 2024",
     "developers": ["semiwork"],
