@@ -2,6 +2,7 @@
   "3527290": {
     "name": "PEAK",
     "version":"none",
+    "working":0,
     "short_description": "PEAK is a co-op climbing game where the slightest mistake can spell your doom.",
     "release_date": "16 June 2025",
     "developers": ["Team PEAK"],
@@ -23,6 +24,7 @@
   "3241660": {
     "name": "R.E.P.O.",
     "version":"v0.3.2",
+    "working":0,
     "short_description": "R.E.P.O. is a co-op horror game where physics-based interactions and teamwork are the key to surviving terrifying missions.",
     "release_date": "26 February 2024",
     "developers": ["semiwork"],
