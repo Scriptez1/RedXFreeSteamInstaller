@@ -1,8 +1,8 @@
 {
   "3241660": {
     "name": "R.E.P.O.",
-    "version":"v0.3.1 - v0.3.2",
-    "working":1,
+    "version": "v0.3.1 - v0.3.2",
+    "working": 1,
     "short_description": "R.E.P.O. is a co-op horror game where physics-based interactions and teamwork are the key to surviving terrifying missions.",
     "release_date": "26 February 2024",
     "developers": ["semiwork"],
@@ -21,33 +21,48 @@
       "final_price_formatted": "$9.99"
     }
   },
-    "1966720": {
-        "name": "Lethal Company",
-        "version":"v72 - v73",
-        "working":1,
-        "short_description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
-        "release_date": "Oct 23, 2023",
-        "developers": [
-            "Zeekerss"
-        ],
-        "publishers": [
-            "Zeekerss"
-        ],
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 999,
-            "final_price_cents": 749,
-            "discount_percent": 25,
-            "final_price_formatted": "$7.49"
-        }
+  "1966720": {
+    "name": "Lethal Company",
+    "version": "v72 - v73",
+    "working": 1,
+    "short_description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+    "release_date": "Oct 23, 2023",
+    "developers": ["Zeekerss"],
+    "publishers": ["Zeekerss"],
+    "genres": ["Action", "Adventure"],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 999,
+      "final_price_cents": 749,
+      "discount_percent": 25,
+      "final_price_formatted": "$7.49"
     }
+  },
+  "3527290": {
+    "name": "PEAK",
+    "version": "v1.51.a",
+    "working": 1,
+    "short_description": "PEAK is a co-op climbing game where the slightest mistake can spell your doom.",
+    "release_date": "16 June 2025",
+    "developers": ["Team PEAK"],
+    "publishers": ["Aggro Crab", "Landfall"],
+    "genres": ["Adventure", "Action", "Co-op"],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 399,
+      "final_price_cents": 399,
+      "discount_percent": 0,
+      "final_price_formatted": "$3.99"
+    }
+  }
 }
