@@ -5,9 +5,17 @@
     "working": 1,
     "short_description": "R.E.P.O. is a co-op horror game where physics-based interactions and teamwork are the key to surviving terrifying missions.",
     "release_date": "26 February 2024",
-    "developers": ["semiwork"],
-    "publishers": ["semiwork"],
-    "genres": ["Horror", "Action", "Co-op"],
+    "developers": [
+      "semiwork"
+    ],
+    "publishers": [
+      "semiwork"
+    ],
+    "genres": [
+      "Horror",
+      "Action",
+      "Co-op"
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -27,9 +35,16 @@
     "working": 1,
     "short_description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
     "release_date": "Oct 23, 2023",
-    "developers": ["Zeekerss"],
-    "publishers": ["Zeekerss"],
-    "genres": ["Action", "Adventure"],
+    "developers": [
+      "Zeekerss"
+    ],
+    "publishers": [
+      "Zeekerss"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -49,9 +64,18 @@
     "working": 1,
     "short_description": "PEAK is a co-op climbing game where the slightest mistake can spell your doom.",
     "release_date": "16 June 2025",
-    "developers": ["Team PEAK"],
-    "publishers": ["Aggro Crab", "Landfall"],
-    "genres": ["Adventure", "Action", "Co-op"],
+    "developers": [
+      "Team PEAK"
+    ],
+    "publishers": [
+      "Aggro Crab",
+      "Landfall"
+    ],
+    "genres": [
+      "Adventure",
+      "Action",
+      "Co-op"
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -63,6 +87,40 @@
       "final_price_cents": 399,
       "discount_percent": 0,
       "final_price_formatted": "$3.99"
+    }
+  },
+  "2881650": {
+    "name": "Content Warning",
+    "version": "v1.17.b - 1.20.2",
+    "working": 1,
+    "short_description": "Film your friends doing scary things to become SpookTube famous.",
+    "release_date": "1 Apr, 2024",
+    "developers": [
+      "Skog",
+      "Zorro",
+      "Wilnyl",
+      "Philip",
+      "thePetHen"
+    ],
+    "publishers": [
+      "Landfall Publishing"
+    ],
+    "genres": [
+      "Horror",
+      "Action",
+      "Co-op"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 799,
+      "final_price_cents": 799,
+      "discount_percent": 0,
+      "final_price_formatted": "$7.99"
     }
   }
 }
