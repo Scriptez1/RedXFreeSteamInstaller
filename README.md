@@ -1,6 +1,6 @@
 **Modern Steam Game Library and Manager**
 
-![Version](https://img.shields.io/badge/Version-v2.1-red)
+![Version](https://img.shields.io/badge/Version-v2.2-red)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/License-CPL-green)
@@ -115,6 +115,7 @@ This application is for educational purposes only. Please use it in accordance w
   [![GitHub issues](https://img.shields.io/github/issues/Scriptez1/RedXFreeSteamInstaller)](https://github.com/Scriptez1/RedXFreeSteamInstaller/issues)
 
 </div>
+
 
 
 
