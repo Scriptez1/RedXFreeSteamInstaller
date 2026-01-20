@@ -89,6 +89,38 @@
       "final_price_formatted": "$3.99"
     }
   },
+  "2794590": {
+    "name": "Scam Line",
+    "version": "Build 16012026",
+    "working": 1,
+    "short_description": "Scam Line is a 4–8 player social deception game where your party will face different challenges. Become a liar, a manipulator, a cheater, or find your own path to victory",
+    "release_date": "10 January 2026",
+    "developers": [
+      "RavenJm"
+    ],
+    "publishers": [
+      "RavenJm"
+    ],
+    "genres": [
+      "Indie",
+      "Multiplayer",
+      "Social Deduction",
+      "PvP",
+      "Co-op"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 499,
+      "final_price_cents": 449,
+      "discount_percent": 10,
+      "final_price_formatted": "$4.49"
+    }
+  },
   "2881650": {
     "name": "Content Warning",
     "version": "v1.17.b",
