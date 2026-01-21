@@ -152,6 +152,42 @@
       "final_price_formatted": "$9.99"
     }
   },
+  "2625420": {
+    "name": "Drive Beyond Horizons",
+    "version": "Build 31102025",
+    "working": 1,
+    "short_description": "Drive Beyond Horizons is an open-world driving adventure where you explore dynamic landscapes, customize vehicles, and tackle challenges solo or with friends in Early Access development.",
+    "release_date": "24 March 2025",
+    "developers": [
+      "Drive Beyond Horizons",
+      "Santor Games",
+      "Tacty Studio"
+    ],
+    "publishers": [
+      "Tacty Studio",
+      "Santor Games"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Racing",
+      "Simulation",
+      "Early Access",
+      "Multiplayer"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 2499,
+      "final_price_cents": 2499,
+      "discount_percent": 0,
+      "final_price_formatted": "$24.99"
+    }
+  },
   "2881650": {
     "name": "Content Warning",
     "version": "v1.17.b",
