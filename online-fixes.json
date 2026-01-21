@@ -188,6 +188,37 @@
       "final_price_formatted": "$24.99"
     }
   },
+  "1284190": {
+    "name": "The Planet Crafter",
+    "version": "Build 19112025",
+    "working": 1,
+    "short_description": "The Planet Crafter is an open-world survival and terraforming game where you transform a hostile planet into a habitable world by gathering resources, building machines, and changing the ecosystem.",
+    "release_date": "10 April 2024",
+    "developers": [
+      "Miju Games"
+    ],
+    "publishers": [
+      "Miju Games"
+    ],
+    "genres": [
+      "Adventure",
+      "Survival",
+      "Sandbox",
+      "Simulation"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 2399,
+      "final_price_cents": 2399,
+      "discount_percent": 0,
+      "final_price_formatted": "$23.99"
+    }
+  },
   "2881650": {
     "name": "Content Warning",
     "version": "v1.17.b",
