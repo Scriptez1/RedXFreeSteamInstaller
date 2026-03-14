@@ -2,14 +2,13 @@
 
 **Современная библиотека и менеджер игр Steam**
 
-![Version](https://img.shields.io/badge/Версия-v2.1-red)
+![Version](https://img.shields.io/badge/Версия-v2.4-red)
 ![Language](https://img.shields.io/badge/Язык-Python-blue)
 ![Platform](https://img.shields.io/badge/Платформа-Windows-lightgrey)
 ![License](https://img.shields.io/badge/Лицензия-CPL-green)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/642c0a5c-47d0-4beb-adb9-cbed85031666" alt="RedX Game Library" width="800">
-
+<img width="1376" height="768" alt="a" src="https://github.com/user-attachments/assets/0ac0aa73-fa26-43ae-9ad9-173a96b97da7" />
   **Современный многоязычный менеджер библиотеки игр Steam с элегантной красно-черной темой**
 </div>
 
