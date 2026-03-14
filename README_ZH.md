@@ -2,14 +2,13 @@
 
 **现代 Steam 游戏库和管理器**
 
-![Version](https://img.shields.io/badge/版本-v2.1-red)
+![Version](https://img.shields.io/badge/版本-v2.4-red)
 ![Language](https://img.shields.io/badge/语言-Python-blue)
 ![Platform](https://img.shields.io/badge/平台-Windows-lightgrey)
 ![License](https://img.shields.io/badge/许可-CPL-green)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/642c0a5c-47d0-4beb-adb9-cbed85031666" alt="RedX Game Library" width="800">
-
+ <img width="1376" height="768" alt="a" src="https://github.com/user-attachments/assets/0ac0aa73-fa26-43ae-9ad9-173a96b97da7" />
   **具有优雅红黑主题的现代多语言 Steam 游戏库管理器**
 </div>
 
