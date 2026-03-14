@@ -42,7 +42,10 @@ Choose your preferred language for documentation:
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/174c4269-96df-48f2-bc7f-5b2d4731d518" alt="Main Interface">
+<img width="1353" height="859" alt="image" src="https://github.com/user-attachments/assets/39bf92e8-e20d-419b-befe-579ed0ff01e7" />
+ --
+<img width="1351" height="861" alt="image" src="https://github.com/user-attachments/assets/76ea0e83-ff9e-46ad-9d92-c5371a2a91d4" />
+
   <p><em>Modern game library interface with red-black theme</em></p>
 </div>
 
