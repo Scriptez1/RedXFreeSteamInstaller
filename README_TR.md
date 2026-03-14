@@ -2,14 +2,13 @@
 
 **Modern Steam Oyun Kütüphanesi ve Yöneticisi**
 
-![Version](https://img.shields.io/badge/Versiyon-v2.1-red)
+![Version](https://img.shields.io/badge/Versiyon-v2.4-red)
 ![Language](https://img.shields.io/badge/Dil-Python-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/Lisans-CPL-green)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/642c0a5c-47d0-4beb-adb9-cbed85031666" alt="RedX Game Library" width="800">
-
+  <img width="1376" height="768" alt="a" src="https://github.com/user-attachments/assets/0ac0aa73-fa26-43ae-9ad9-173a96b97da7" />
   **Şık kırmızı-siyah tema ile modern, çok dilli bir Steam oyun kütüphanesi yöneticisi**
 </div>
 
