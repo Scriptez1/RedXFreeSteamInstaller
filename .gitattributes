@@ -1,12 +1,1 @@
-resimler filter=lfs diff=lfs merge=lfs -text
-Bypass/2428810.zip filter=lfs diff=lfs merge=lfs -text
-Bypass/488790.zip filter=lfs diff=lfs merge=lfs -text
-Bypass/552520.zip filter=lfs diff=lfs merge=lfs -text
-Bypass/460930.zip filter=lfs diff=lfs merge=lfs -text
-Bypass/235600.zip filter=lfs diff=lfs merge=lfs -text
-Bypass/939960.zip filter=lfs diff=lfs merge=lfs -text
-Bypass/916440.zip filter=lfs diff=lfs merge=lfs -text
-Bypass/582160.zip filter=lfs diff=lfs merge=lfs -text
-Bypass/2208920.zip filter=lfs diff=lfs merge=lfs -text
-Bypass/2239550.zip filter=lfs diff=lfs merge=lfs -text
-Bypass/3035570.zip filter=lfs diff=lfs merge=lfs -text
+Bypass/1222700.zip filter=lfs diff=lfs merge=lfs -text
