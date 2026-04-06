@@ -66,7 +66,7 @@
 ### 手順
 1. [Releases](https://github.com/Scriptez1/RedX/releases)ページから最新リリースをダウンロード
 2. 好みの場所にアーカイブを展開
-3. `RedX.exe`または`main.py`を実行（ソースから実行する場合）
+3. `RedXGameLibrary.exe` を実行
 4. 初回起動時の認証プロンプトに従う
 
 ### 認証方法
