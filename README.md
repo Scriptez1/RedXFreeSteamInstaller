@@ -1,140 +1,149 @@
-**Modern Steam Game Library and Manager**
+# RedX Game Library
 
-![Version](https://img.shields.io/badge/Version-v2.4-red)
-![Language](https://img.shields.io/badge/Language-Python-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![License](https://img.shields.io/badge/License-CPL-green)
+<p align="center">
+  <img width="1376" height="768" alt="a" src="https://github.com/user-attachments/assets/0ac0aa73-fa26-43ae-9ad9-173a96b97da7" />
+</p>
 
-<div align="center">
-<img width="1376" height="768" alt="a" src="https://github.com/user-attachments/assets/0ac0aa73-fa26-43ae-9ad9-173a96b97da7" />
-  **A modern, multi-language Steam game library manager with an elegant red-black theme**
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/RedX%20Game%20Library-red?style=for-the-badge&logo=steam" alt="RedX Game Library">
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Platform">
+  <img src="https://img.shields.io/badge/License-CPL-green?style=for-the-badge&logo=github&logoColor=white" alt="License">
+  <img src="https://img.shields.io/badge/Version-2.4-orange?style=for-the-badge&logo=python&logoColor=white" alt="Version">
+</p>
 
-## 🌍 Language / Dil / Sprache / Язык / 言語
+<h3 align="center">Modern Steam Game Library Manager</h3>
 
-Choose your preferred language for documentation:
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#languages">Languages</a> •
+  <a href="#community">Community</a>
+</p>
 
-| Language | README |
-|----------|--------|
-| 🇹🇷 **Türkçe** | [README_TR.md](README_TR.md) |
-| 🇺🇸 **English** | [README_EN.md](README_EN.md) |
-| 🇩🇪 **Deutsch** | [README_DE.md](README_DE.md) |
-| 🇷🇺 **Русский** | [README_RU.md](README_RU.md) |
-| 🇯🇵 **日本語** | [README_JA.md](README_JA.md) |
-| 🇨🇳 **中文** | [README_ZH.md](README_ZH.md) |
+---
 
-## 🚀 Quick Start
+## Overview
 
-1. Download the latest `RedXGameLibrary.exe` from [Releases](https://github.com/Scriptez1/RedXFreeSteamInstaller/releases/latest)
-2. Double-click `RedXGameLibrary.exe` to run
-3. No installation required!
+**RedX Game Library** is an ultra-modern game management application designed to make gaming accessible to everyone. It provides a seamless way to organize, manage, and enhance your Steam gaming experience without relying on third-party services.
 
-## ✨ Key Features
+> **Available Languages:** [EN](README.md) | [TR](README.tr.md) | [DE](README.de.md) | [RU](README.ru.md) | [JP](README.ja.md) | [CN](README.zh.md)
 
-- 🎨 **Modern UI** - Elegant red-black theme with smooth animations
-- 🌍 **Multi-Language** - Support for 5 languages (TR, EN, DE, RU, JA)
-- 🎮 **Game Management** - Search, filter, and manage Steam games
-- 🔧 **Auto Updates** - Automatic update checking via GitHub
-- 📱 **Responsive** - Adapts to different screen sizes
-- 🔍 **Advanced Search** - Fast game search with genre filtering
-- 💾 **Installation Tracking** - Monitor installed games and DLCs
+## Features
 
-## 📸 Screenshots
+### [>] Game Library Management
+- **Browse & Search:** Explore thousands of games with an intuitive interface
+- **Installed Games:** Keep track of all your added games in one place
+- **Game Details:** View comprehensive information about any game
 
-<div align="center">
-<img width="1353" height="859" alt="image" src="https://github.com/user-attachments/assets/39bf92e8-e20d-419b-befe-579ed0ff01e7" />
- --
-<img width="1351" height="861" alt="image" src="https://github.com/user-attachments/assets/76ea0e83-ff9e-46ad-9d92-c5371a2a91d4" />
+### [o] Online Features
+- **Online Fixes:** Access online multiplayer fixes for supported games
+- **Bypass Solutions:** Quick access to game bypass options
+- **Remote Installation:** Add games to your library from anywhere via the web interface
 
-  <p><em>Modern game library interface with red-black theme</em></p>
-</div>
+### [#] Security & Trust
+- **Safe & Secure:** No third-party dependencies for game installation
+- **Direct Integration:** Works directly with your existing Steam installation
+- **Trusted Sources:** All fixes and bypasses come from verified sources
 
-## 🛠️ Technology Stack
+### [O] Modern Interface
+- **Dark Theme:** Sleek red and black design aesthetic
+- **Smooth Animations:** 60 FPS animated loading screens and transitions
+- **Customizable:** Adjustable settings for games per page, censorship options, and more
 
-- **Frontend**: Python Tkinter with custom styling
-- **Backend**: Python with Steam API integration
-- **Languages**: Multi-language support system
-- **Updates**: GitHub API integration
-- **Platform**: Windows (Steam required)
+### [~] Background Features
+- **System Tray:** Runs in background with system tray integration
+- **Auto-Polling:** Automatically checks for download requests
+- **Auto-Updates:** Built-in update system keeps you on the latest version
 
-## 📊 Project Stats
+## Installation
 
-- **Languages Supported**: 5
-- **Total Translations**: 100+ strings per language
-- **File Structure**: Modular and organized
-- **Update System**: Automated via GitHub
+### Prerequisites
+- Windows OS
+- Steam installed on your system
+- Internet connection for initial setup
 
-## 🤝 Contributing
+### Steps
+1. Download the latest release from the [Releases](https://github.com/Scriptez1/RedX/releases) page
+2. Extract the archive to your preferred location
+3. Run `RedX.exe` or `main.py` (if running from source)
+4. Follow the authentication prompts on first launch
 
-We welcome contributions! Please see the language-specific README files for detailed contribution guidelines:
+### Authentication Methods
+Choose your preferred authentication method on first run:
+- **GitHub + YouTube:** Star the repository and subscribe to the channel
+- **Discord:** Join our server and use the `/key` command for a 24-hour access key
 
-- [Turkish Contributors](README_TR.md#-katkıda-bulunma)
-- [English Contributors](README_EN.md#-contributing)
-- [German Contributors](README_DE.md#-mitwirken)
-- [Russian Contributors](README_RU.md#-участие-в-разработке)
-- [Japanese Contributors](README_JA.md#-貢献)
-- [Chinese Contributors](README_ZH.md#-参与开发)
+## Usage
 
-## 📋 System Requirements
+### Getting Started
+1. **Launch** the application
+2. **Authenticate** using your preferred method
+3. **Set Steam Path** if not auto-detected
+4. **Browse** the game library and start adding games!
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **OS** | Windows 10 | Windows 11 |
-| **RAM** | 4 GB | 8 GB |
-| **Storage** | 50 MB | 100 MB |
-| **Internet** | Required | High-speed |
+### Main Sections
 
-## 🔗 Links
+| Section | Description |
+|---------|-------------|
+| **Home** | Dashboard with statistics and quick access |
+| **All Games** | Browse the complete game database |
+| **Installed** | Manage your added games |
+| **Online Fixes** | Download multiplayer fixes |
+| **Bypass** | Access bypass solutions |
 
-- **GitHub Repository**: [RedXFreeSteamInstaller](https://github.com/Scriptez1/RedXFreeSteamInstaller)
-- **Latest Release**: [Download](https://github.com/Scriptez1/RedXFreeSteamInstaller/releases/latest)
-- **Report Issues**: [Issues](https://github.com/Scriptez1/RedXFreeSteamInstaller/issues)
-- **Discussions**: [Discussions](https://github.com/Scriptez1/RedXFreeSteamInstaller/discussions)
+### Quick Actions
+- **Request Game:** Can't find a game? Request it to be added
+- **Complaint/Suggestion:** Send feedback directly to the developers
+- **Steam Restart:** Quick button to restart Steam when needed
 
-## 📄 License
+## Languages
 
-This project is licensed under the CPL License - see the [LICENSE](LICENSE) file for details.
+RedX Game Library supports multiple languages:
 
-## ⚠️ Disclaimer
+- [EN] **English** - Full interface and game content support
+- [TR] **Türkçe** - Full Turkish translation with game descriptions
+- [DE] **Deutsch** - German interface and content support
+- [RU] **Русский** - Russian interface and content support
+- [JP] **日本語** - Japanese interface and content support
+- [CN] **中文** - Chinese interface and content support
 
-This application is for educational purposes only. Please use it in accordance with Steam's Terms of Service and applicable laws in your jurisdiction.
+Language can be changed in Settings. Game descriptions are automatically translated based on your selected language.
 
-## 🙏 Acknowledgments
+## Community
 
-- Steam API for game data
-- Python community for excellent libraries
-- Contributors and users for feedback and support
-- Open source community for inspiration
+Join our community for support, updates, and exclusive content:
+
+- [YT] **YouTube:** [@dokuman_tv](https://www.youtube.com/@dokuman_tv)
+- [DC] **Discord:** [Join Server](https://discord.gg/FXhFrV3rqe)
+- [GH] **GitHub:** [Scriptez1](https://github.com/Scriptez1)
+
+## Screenshots
+
+<p align="center">
+  <img width="1353" height="859" alt="image" src="https://github.com/user-attachments/assets/39bf92e8-e20d-419b-befe-579ed0ff01e7" />
+</p>
+
+<p align="center">
+  <img width="1351" height="861" alt="image" src="https://github.com/user-attachments/assets/76ea0e83-ff9e-46ad-9d92-c5371a2a91d4" />
+</p>
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests through GitHub.
+
+## Disclaimer
+
+This tool is for educational purposes. Please respect game developers and purchase games you enjoy. Online fixes are intended for legitimate game owners who want to play with friends.
 
 ---
 
 <div align="center">
   <p><strong>RedX Game Library</strong> - Modern Steam Game Manager</p>
-  <p>Made with ❤️ by the RedX Team</p>
+  <p>Made with <3 by the RedX Team</p>
   
   [![GitHub stars](https://img.shields.io/github/stars/Scriptez1/RedXFreeSteamInstaller?style=social)](https://github.com/Scriptez1/RedXFreeSteamInstaller/stargazers)
   [![GitHub forks](https://img.shields.io/github/forks/Scriptez1/RedXFreeSteamInstaller?style=social)](https://github.com/Scriptez1/RedXFreeSteamInstaller/network/members)
   [![GitHub issues](https://img.shields.io/github/issues/Scriptez1/RedXFreeSteamInstaller)](https://github.com/Scriptez1/RedXFreeSteamInstaller/issues)
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
