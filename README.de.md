@@ -66,7 +66,7 @@
 ### Schritte
 1. Laden Sie die neueste Version von der [Releases](https://github.com/Scriptez1/RedX/releases)-Seite herunter
 2. Entpacken Sie das Archiv an Ihrem bevorzugten Ort
-3. Führen Sie `RedX.exe` oder `main.py` aus (wenn Sie von der Quelle ausführen)
+3. Führen Sie `RedXGameLibrary.exe`
 4. Folgen Sie den Authentifizierungsaufforderungen beim ersten Start
 
 ### Authentifizierungsmethoden
