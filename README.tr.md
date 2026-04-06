@@ -66,7 +66,7 @@
 ### Adımlar
 1. [Releases](https://github.com/Scriptez1/RedX/releases) sayfasından en son sürümü indirin
 2. Arşivi tercih ettiğiniz konuma çıkarın
-3. `RedX.exe` veya `main.py` dosyasını çalıştırın (kaynak koddan çalıştırıyorsanız)
+3. `RedXGameLibrary.exe` dosyasını çalıştırın
 4. İlk çalıştırmada doğrulama istemlerini takip edin
 
 ### Doğrulama Yöntemleri
