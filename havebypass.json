@@ -85,7 +85,7 @@
     "Hogwarts Legacy": { "appid": 990080, "working": 1, "exe": 1, "steam": 0 },
     "Jurassic World Evolution 2": { "appid": 1244460, "working": 1, "exe": 1, "steam": 1 },
     "Just Cause 3": { "appid": 225540, "working": 1, "exe": 1, "steam": 1 },
-    "Just Cause 4": { "appid": 517630, "working": 1, "exe": 1, "steam": 1 },
+    "Just Cause 4": { "appid": 517630, "working": 0, "exe": 1, "steam": 1 },
     "Life is Strange 2": { "appid": 532210, "working": 1, "exe": 1, "steam": 1 },
     "Life is Strange: Double Exposure": { "appid": 1874000, "working": 1, "exe": 1, "steam": 1 },
     "Mad Max": { "appid": 234140, "working": 1, "exe": 1, "steam": 1 },
