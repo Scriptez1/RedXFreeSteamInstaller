@@ -1,0 +1,410 @@
+{
+    "2968420": {
+        "name": "PowerWash Simulator 2",
+        "short_description": "PowerWash Simulator is back, bubbling with fresh locations, soap-erior equipment and splashy features. Effortlessly transform soiled surroundings into clean, serene scenes, solo or with pals. Satisfaction is a spray away!",
+        "release_date": "Oct 23, 2025",
+        "developers": [
+            "FuturLab"
+        ],
+        "publishers": [
+            "FuturLab"
+        ],
+        "genres": [
+            "Casual",
+            "Indie"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 2499,
+            "final_price_cents": 2499,
+            "discount_percent": 0,
+            "final_price_formatted": "$24.99"
+        }
+    },
+    "3321460": {
+        "name": "Crimson Desert",
+        "short_description": "Crimson Desert is an open-world action-adventure set on the continent of Pywel. Join Kliff on his journey to rebuild the Greymane faction and to save the land from a looming threat. From vast wilderness and cities to ruins and the mysterious Abyss, forge your path through battles and discovery.",
+        "release_date": "Mar 19, 2026",
+        "developers": [
+            "Pearl Abyss"
+        ],
+        "publishers": [
+            "Pearl Abyss"
+        ],
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 6999,
+            "final_price_cents": 6999,
+            "discount_percent": 0,
+            "final_price_formatted": "$69.99"
+        }
+    },
+    "595690": {
+        "name": "One Hour One Life",
+        "short_description": "A multiplayer survival game of parenting and civilization building. Get born to another player as your mother. Live an entire life in one hour. Have babies of your own in the form of other players. Leave a legacy for the next generation as you help to rebuild civilization from scratch.",
+        "release_date": "Nov 8, 2018",
+        "developers": [
+            "Jason Rohrer"
+        ],
+        "publishers": [
+            "Jason Rohrer"
+        ],
+        "genres": [
+            "Indie",
+            "Massively Multiplayer"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 1499,
+            "final_price_cents": 1499,
+            "discount_percent": 0,
+            "final_price_formatted": "$14.99"
+        }
+    },
+    "2815070": {
+        "name": "RIDE 6",
+        "short_description": "Live the thrill of asphalt and dirt with RIDE 6: affirm your biker identity by joining RIDE Fest, race with 250+ bikes from different categories and prove you're the best by challenging real motorcycling legends.",
+        "release_date": "Feb 12, 2026",
+        "developers": [
+            "Milestone S.r.l."
+        ],
+        "publishers": [
+            "Milestone S.r.l."
+        ],
+        "genres": [
+            "Racing",
+            "Simulation"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 5999,
+            "final_price_cents": 5999,
+            "discount_percent": 0,
+            "final_price_formatted": "$59.99"
+        }
+    },
+    "3551340": {
+        "name": "Football Manager 26",
+        "short_description": "Step into the dugout and experience the future of football management.",
+        "release_date": "Nov 4, 2025",
+        "developers": [
+            "Sports Interactive"
+        ],
+        "publishers": [
+            "SEGA"
+        ],
+        "genres": [
+            "Simulation",
+            "Sports"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 5999,
+            "final_price_cents": 5999,
+            "discount_percent": 0,
+            "final_price_formatted": "$59.99"
+        }
+    },
+    "1401730": {
+        "name": "Crashlands 2",
+        "short_description": "Slap your way across a vibrant world where interstellar friendships are the key to your survival. Befriend eccentric aliens, craft bizarre weaponry, and stick it to the man in this sequel to the award-winning open world crafting RPG Crashlands.",
+        "release_date": "Apr 10, 2025",
+        "developers": [
+            "Butterscotch Shenanigans"
+        ],
+        "publishers": [
+            "Butterscotch Shenanigans"
+        ],
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 2499,
+            "final_price_cents": 999,
+            "discount_percent": 60,
+            "final_price_formatted": "$9.99"
+        }
+    },
+    "4209010": {
+        "name": "Lakehopper",
+        "short_description": "Take flight in a seaplane flight simulator through a rugged world where you are responsible for the care and maintenance of your plane. Deliver cargo between far-flung communities in a flooded landscape that challenges your piloting skills! Fix your plane and keep flying!",
+        "release_date": "Mar 30, 2026",
+        "developers": [
+            "Photon Games"
+        ],
+        "publishers": [
+            "Photon Games"
+        ],
+        "genres": [
+            "Adventure",
+            "Indie"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": true
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 999,
+            "final_price_cents": 799,
+            "discount_percent": 20,
+            "final_price_formatted": "$7.99"
+        }
+    },
+    "2300840": {
+        "name": "Subliminal",
+        "short_description": "Subliminal is a psychological horror game inspired by the urban legend of The Backrooms. Bleeding edge lighting and rendering, handcrafted open-ended levels, light and perspective-based puzzles, nostalgic spaces, unfamiliar faces, and a rotting feeling that something is not quite right.",
+        "release_date": "Mar 31, 2026",
+        "developers": [
+            "Accidental Studios"
+        ],
+        "publishers": [
+            "Gone Shootin",
+            "Infini Fun"
+        ],
+        "genres": [
+            "Adventure",
+            "Indie"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 999,
+            "final_price_cents": 899,
+            "discount_percent": 10,
+            "final_price_formatted": "$8.99"
+        }
+    },
+    "837470": {
+        "name": "Untitled Goose Game",
+        "short_description": "It's a lovely morning in the village and you are a horrible goose.",
+        "release_date": "Sep 23, 2020",
+        "developers": [
+            "House House"
+        ],
+        "publishers": [
+            "Panic"
+        ],
+        "genres": [
+            "Action",
+            "Indie"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 1999,
+            "final_price_cents": 1999,
+            "discount_percent": 0,
+            "final_price_formatted": "$19.99"
+        }
+    },
+    "2778580": {
+        "name": "ELDEN RING Shadow of the Erdtree",
+        "short_description": "The ELDEN RING Shadow of the Erdtree expansion features an all-new story set in the Land of Shadow imbued with mystery, perilous dungeons, and new enemies, weapons and equipment.",
+        "release_date": "Jun 20, 2024",
+        "developers": [
+            "FromSoftware, Inc."
+        ],
+        "publishers": [
+            "FromSoftware, Inc.",
+            "Bandai Namco Entertainment"
+        ],
+        "genres": [
+            "Action",
+            "RPG"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 3999,
+            "final_price_cents": 3999,
+            "discount_percent": 0,
+            "final_price_formatted": "$39.99"
+        }
+    },
+    "3477300": {
+        "name": "Scope X",
+        "short_description": "The #1 screen magnification overlay for competitive FPS players. Instantly zoom into any part of your screen to spot distant targets, reveal critical details, and gain a visual edge. Built for shooters.",
+        "release_date": "Jun 6, 2025",
+        "developers": [
+            "CenterPoint Gaming"
+        ],
+        "publishers": [
+            "CenterPoint Gaming"
+        ],
+        "genres": [
+            "Action",
+            "Indie"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 399,
+            "final_price_cents": 399,
+            "discount_percent": 0,
+            "final_price_formatted": "$3.99"
+        }
+    },
+    "3180410": {
+        "name": "Project Songbird",
+        "short_description": "Project Songbird is a cinematic first-person narrative horror game set in the Appalachian forest. Take on the role of Dakota, a musician who must record their new album in a remote log cabin amidst a writer's block. Take caution, however. These woods were never empty...",
+        "release_date": "Mar 26, 2026",
+        "developers": [
+            "FYRE Games",
+            "Conner Rush"
+        ],
+        "publishers": [
+            "FYRE Games"
+        ],
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 1499,
+            "final_price_cents": 1499,
+            "discount_percent": 0,
+            "final_price_formatted": "$14.99"
+        }
+    },
+    "1962700": {
+        "name": "Subnautica 2",
+        "short_description": "Subnautica 2 is an underwater survival adventure set on an all-new alien world, developed by Unknown Worlds. Play alone or with friends in 4-player co-op. Adapt to survive by building custom bases and crafting tools. Explore the unknown to uncover the mysteries hidden within the depths.",
+        "release_date": "May 14, 2026",
+        "developers": [
+            "Unknown Worlds Entertainment"
+        ],
+        "publishers": [
+            "Unknown Worlds Entertainment"
+        ],
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 2999,
+            "final_price_cents": 2999,
+            "discount_percent": 0,
+            "final_price_formatted": "$29.99"
+        }
+    },
+    "4479970": {
+        "name": "Scary Game 2: The Mad Shepherd",
+        "short_description": "Your first day as the new shepherd in the village… and everything is going wrong. The animals are missing. The villagers are strange. And the truth is far more terrifying.",
+        "release_date": "May 8, 2026",
+        "developers": [
+            "KanGames"
+        ],
+        "publishers": [
+            "KanGames"
+        ],
+        "genres": [
+            "Action",
+            "Casual"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 299,
+            "final_price_cents": 239,
+            "discount_percent": 20,
+            "final_price_formatted": "$2.39"
+        }
+    },
+    "2483190": {
+        "name": "Forza Horizon 6",
+        "short_description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
+        "release_date": "May 18, 2026",
+        "developers": [
+            "Playground Games"
+        ],
+        "publishers": [
+            "Xbox Game Studios"
+        ],
+        "genres": [
+            "Racing",
+            "Simulation"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 6999,
+            "final_price_cents": 6999,
+            "discount_percent": 0,
+            "final_price_formatted": "$69.99"
+        }
+    }
+}
