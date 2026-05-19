@@ -406,5 +406,32 @@
             "discount_percent": 0,
             "final_price_formatted": "$69.99"
         }
+   },
+    "2681030": {
+        "name": "Outbound",
+        "short_description": "Explore a colorful world and build your own cozy home on wheels. Craft workstations, and source energy from the sun, wind, or water. Upgrade and customize your vehicle, grow crops, and live sustainably off-grid with up to 4 players.",
+        "release_date": "May 11, 2026",
+        "developers": [
+            "Square Glade Games"
+        ],
+        "publishers": [
+            "Square Glade Games"
+        ],
+        "genres": [
+            "Adventure",
+            "Indie"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 2499,
+            "final_price_cents": 2249,
+            "discount_percent": 10,
+            "final_price_formatted": "$22.49"
+        }
     }
 }
