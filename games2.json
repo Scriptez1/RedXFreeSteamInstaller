@@ -515,6 +515,117 @@
             "final_price_formatted": "$4.99"
         }
     },
+    "3846650": {
+        "name": "The Perfect Shape",
+        "short_description": "A minimalist puzzle game about geometry, perspective, and finding the perfect angle to complete beautiful shapes. Relax your mind with satisfying mechanics and clean aesthetics.",
+        "release_date": "Jun 2, 2026",
+        "developers": [
+            "Shapes & Pixels"
+        ],
+        "publishers": [
+            "Shapes & Pixels"
+        ],
+        "genres": [
+            "Casual",
+            "Indie",
+            "Strategy"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 399,
+            "final_price_cents": 359,
+            "discount_percent": 10,
+            "final_price_formatted": "$3.59"
+        }
+    },
+    "3499220": {
+        "name": "Chrono Shift",
+        "short_description": "Manipulate time to solve mind-bending environmental puzzles and escape a decaying dystopian facility. Rewind, pause, and fast-forward world elements to carve your path forward.",
+        "release_date": "May 28, 2026",
+        "developers": [
+            "Quantum Forge"
+        ],
+        "publishers": [
+            "Quantum Forge"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Indie"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 1499,
+            "final_price_cents": 1499,
+            "discount_percent": 0,
+            "final_price_formatted": "$14.99"
+        }
+    },
+    "2095420": {
+        "name": "Neon Override",
+        "short_description": "A fast-paced, high-octane cyberpunk roguelike shooter. Hack systems, upgrade your cybernetics on the fly, and blast your way through endless corporate security forces.",
+        "release_date": "May 15, 2026",
+        "developers": [
+            "CyberPulse Studio"
+        ],
+        "publishers": [
+            "CyberPulse Studio"
+        ],
+        "genres": [
+            "Action",
+            "Indie",
+            "RPG"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": true
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 1999,
+            "final_price_cents": 1999,
+            "discount_percent": 0,
+            "final_price_formatted": "$19.99"
+        }
+    },
+    "3751950": {
+        "name": "Whispers of the Deep",
+        "short_description": "An atmospheric psychological horror game set in an isolated deep-sea research station. Manage your oxygen, dodge terrifying marine entities, and discover what lurks below.",
+        "release_date": "Jun 1, 2026",
+        "developers": [
+            "Abyssal Studios"
+        ],
+        "publishers": [
+            "Abyssal Studios"
+        ],
+        "genres": [
+            "Adventure",
+            "Indie"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 999,
+            "final_price_cents": 999,
+            "discount_percent": 0,
+            "final_price_formatted": "$9.99"
+        }
+    },
      "4333460": {
         "name": "The Meter is Running",
         "short_description": "You inherited a taxi dispatch business but it came with debt attached. Hire drivers, dispatch fares, navigate Istanbul's chaos, deal with bad customers and worse luck. You have 15 days to pay it off or lose everything. The meter is running.",
