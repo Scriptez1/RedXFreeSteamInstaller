@@ -626,6 +626,63 @@
             "final_price_formatted": "$9.99"
         }
     },
+    "4173620": {
+        "name": "Supervive",
+        "short_description": "An open-ended, neon-apocalyptic hero theorycrafting game where players form squads, hunt bosses, and battle other squads in massive, dynamic sky-bound battlegrounds.",
+        "release_date": "Dec 12, 2024",
+        "developers": [
+            "Theorycraft Games"
+        ],
+        "publishers": [
+            "Theorycraft Games"
+        ],
+        "genres": [
+            "Action",
+            "RPG",
+            "Strategy",
+            "Free to Play"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 0,
+            "final_price_cents": 0,
+            "discount_percent": 0,
+            "final_price_formatted": "Free to Play"
+        }
+    },
+    "617830": {
+        "name": "Supermarket Simulator",
+        "short_description": "Run your own supermarket. Stock shelves, set prices as you please, take payments, hire staff, expand and design your store. Online order & delivery, thieves, security, local market are included.",
+        "release_date": "Feb 20, 2024",
+        "developers": [
+            "Nokta Games"
+        ],
+        "publishers": [
+            "Nokta Games"
+        ],
+        "genres": [
+            "Casual",
+            "Indie",
+            "Simulation"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 1299,
+            "final_price_cents": 1299,
+            "discount_percent": 0,
+            "final_price_formatted": "$12.99"
+        }
+    },
      "4333460": {
         "name": "The Meter is Running",
         "short_description": "You inherited a taxi dispatch business but it came with debt attached. Hire drivers, dispatch fares, navigate Istanbul's chaos, deal with bad customers and worse luck. You have 15 days to pay it off or lose everything. The meter is running.",
