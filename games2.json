@@ -53,6 +53,32 @@
             "final_price_formatted": "$69.99"
         }
     },
+    "3390880": {
+        "name": "CAPTURED 2",
+        "short_description": "You're trapped in an apartment with ever-changing rooms. Capture anomalies on camera, survive deadly entities and escape an endless nightmare.",
+        "release_date": "Apr 22, 2026",
+        "developers": [
+            "Puck Redflix"
+        ],
+        "publishers": [
+            "Puck Games"
+        ],
+        "genres": [
+            "Action"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 799,
+            "final_price_cents": 799,
+            "discount_percent": 0,
+            "final_price_formatted": "$7.99"
+        }
+    },
     "595690": {
         "name": "One Hour One Life",
         "short_description": "A multiplayer survival game of parenting and civilization building. Get born to another player as your mother. Live an entire life in one hour. Have babies of your own in the form of other players. Leave a legacy for the next generation as you help to rebuild civilization from scratch.",
