@@ -683,6 +683,33 @@
             "final_price_formatted": "$12.99"
         }
     },
+    "1408700": {
+        "name": "Osman Gazi",
+        "short_description": "Osman Gazi 3D RPG Game",
+        "release_date": "Sep 18, 2020",
+        "developers": [
+            "UMURO"
+        ],
+        "publishers": [
+            "UMURO"
+        ],
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 0,
+            "final_price_cents": 0,
+            "discount_percent": 0,
+            "final_price_formatted": "Free to Play"
+        }
+    },
      "4333460": {
         "name": "The Meter is Running",
         "short_description": "You inherited a taxi dispatch business but it came with debt attached. Hire drivers, dispatch fares, navigate Istanbul's chaos, deal with bad customers and worse luck. You have 15 days to pay it off or lose everything. The meter is running.",
