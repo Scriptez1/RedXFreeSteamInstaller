@@ -487,6 +487,34 @@
             "final_price_formatted": "$69.99"
         }
     },
+    "3190700": {
+        "name": "Midnight Looters",
+        "short_description": "Midnight Looters is a 1-4 player co-op horror game where you and your friends explore mysterious forests to find valuable treasures. Face supernatural dangers, collect items, and upgrade your gear to survive the haunted woods.",
+        "release_date": "Apr 2, 2026",
+        "developers": [
+            "ECO Dijital"
+        ],
+        "publishers": [
+            "ECO Dijital"
+        ],
+        "genres": [
+            "Action",
+            "Indie",
+            "Early Access"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 499,
+            "final_price_cents": 499,
+            "discount_percent": 0,
+            "final_price_formatted": "$4.99"
+        }
+    },
      "4333460": {
         "name": "The Meter is Running",
         "short_description": "You inherited a taxi dispatch business but it came with debt attached. Hire drivers, dispatch fares, navigate Istanbul's chaos, deal with bad customers and worse luck. You have 15 days to pay it off or lose everything. The meter is running.",
