@@ -53,6 +53,59 @@
             "final_price_formatted": "$69.99"
         }
     },
+    "4235160": {
+        "name": "Traders Life Simulator",
+        "short_description": "Run your own shop in a first-person trading sim where you buy low, negotiate smart deals, and sell for profit.",
+        "release_date": "Coming soon",
+        "developers": [
+            "Ronin Games"
+        ],
+        "publishers": [
+            "Ronin Games"
+        ],
+        "genres": [
+            "Casual",
+            "Simulation"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 0,
+            "final_price_cents": 0,
+            "discount_percent": 0,
+            "final_price_formatted": "$0.00"
+        }
+    },
+    "4274990": {
+        "name": "Minibus Simulator",
+        "short_description": "Build your own minibus business and transport passengers across the city. Load luggage, maintain and wash your vehicle, unlock new routes and grow your transport career in a living city.",
+        "release_date": "Coming soon",
+        "developers": [
+            "RSG Interactive"
+        ],
+        "publishers": [
+            "RSG Interactive"
+        ],
+        "genres": [
+            "Simulation"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 0,
+            "final_price_cents": 0,
+            "discount_percent": 0,
+            "final_price_formatted": "$0.00"
+        }
+    },
     "3390880": {
         "name": "CAPTURED 2",
         "short_description": "You're trapped in an apartment with ever-changing rooms. Capture anomalies on camera, survive deadly entities and escape an endless nightmare.",
