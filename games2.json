@@ -80,6 +80,35 @@
             "final_price_formatted": "$0.00"
         }
     },
+    "1977570": {
+        "name": "A Dance of Fire and Ice - Neo Cosmos",
+        "short_description": "Neo Cosmos is an expansion to A Dance of Fire and Ice: It features 5 new worlds, all-new surprise game mechanics, and music by Canblaster 2k6, Frums, Ash Astral, and DM Dokuro.",
+        "release_date": "May 30, 2022",
+        "developers": [
+            "7th Beat Games"
+        ],
+        "publishers": [
+            "7th Beat Games",
+            "indienova"
+        ],
+        "genres": [
+            "Indie",
+            "Rhythm",
+            "Music"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 299,
+            "final_price_cents": 299,
+            "discount_percent": 0,
+            "final_price_formatted": "$2.99"
+        }
+    },
     "4274990": {
         "name": "Minibus Simulator",
         "short_description": "Build your own minibus business and transport passengers across the city. Load luggage, maintain and wash your vehicle, unlock new routes and grow your transport career in a living city.",
