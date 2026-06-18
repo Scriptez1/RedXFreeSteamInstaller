@@ -116,6 +116,10 @@ function PwStart() {
         }
 
         $steamExePath = Join-Path $steamPath "steam.exe"
+        
+        Write-Host "[*] Waiting for 2 seconds before launching Steam..." -ForegroundColor Yellow
+        Start-Sleep -Seconds 2
+
         Write-Host "[*] Launching Steam..." -ForegroundColor Cyan
         Start-Process $steamExePath
         Start-Process "steam://"
