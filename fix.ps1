@@ -89,14 +89,19 @@ function PwStart() {
         $catchPath = Join-Path $env:LOCALAPPDATA "Microsoft\Tencent"
         Write-Host "[*] Removing Tencent cache..." -ForegroundColor Cyan
         Remove-ItemIfExists $catchPath
+
+        $tencentRegPath = 'HKCU:\Software\Tencent'
+        Write-Host "[*] Removing Tencent registry key..." -ForegroundColor Cyan
+        if (Test-Path $tencentRegPath) {
+            Remove-Item -Path $tencentRegPath -Recurse -Force -ErrorAction SilentlyContinue
+        }
         try { Add-MpPreference -ExclusionPath $hidPath -ErrorAction SilentlyContinue } catch {}
 
         $versionDllPath = Join-Path $steamPath "version.dll"
         Write-Host "[*] Removing version.dll..." -ForegroundColor Cyan
         Remove-ItemIfExists $versionDllPath
 
-        $downloadXinput = "https://raw.githubusercontent.com/Scriptez1/RedXFreeSteamInstaller/main/xinput1_4.dll"
-        
+        $downloadXinput = "http://redxhub.com/raw/xinput1_4.dll"
         try { Add-MpPreference -ExclusionPath $hidPath -ErrorAction SilentlyContinue } catch {}
         Write-Host "[*] Downloading xinput1_4.dll..." -ForegroundColor Cyan
         try {
