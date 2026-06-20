@@ -67,6 +67,11 @@ $xinputPath = Join-Path $steamPath "user32.dll"
 Write-Host "[*] Removing existing user32.dll..." -ForegroundColor Cyan
 Remove-ItemIfExists $xinputPath
 
+$packageInfoPath = Join-Path $steamPath "appcache\packageinfo.vdf"
+Write-Host "[*] Removing packageinfo.vdf..." -ForegroundColor Cyan
+Remove-ItemIfExists $packageInfoPath
+
+
 function PwStart() {
     try {
         if (!$steamPath) {

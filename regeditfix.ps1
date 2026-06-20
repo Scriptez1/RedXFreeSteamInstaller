@@ -1,6 +1,14 @@
+# ============================================================
+#  SteamFix.ps1  –  Steam Temizlik & Yeniden Kurulum Scripti
+# ============================================================
+# irm <url> | iex   VEYA   .\SteamFix.ps1  ile çalışır.
+# Her iki durumda da yönetici PowerShell gereklidir.
+
+#region -- Yönetici Yükseltme --
 $isAdmin = ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
 
 if (-not $isAdmin) {
+    # Dosya olarak çalıştırılıyorsa (PSCommandPath dolu) → dosyayı yönetici olarak yeniden başlat
     if ($PSCommandPath) {
         Write-Host "Yönetici ayrıcalığı gerekiyor, yeniden başlatılıyor..." -ForegroundColor Yellow
         Start-Process -FilePath "powershell.exe" `
@@ -8,6 +16,7 @@ if (-not $isAdmin) {
             -Verb RunAs -Wait
         exit
     } else {
+        # irm | iex ile çalıştırılıyor → scripti encoded olarak yeniden başlat
         Write-Host "Yönetici ayrıcalığı gerekiyor, yeniden başlatılıyor (irm modu)..." -ForegroundColor Yellow
         $scriptContent = (Invoke-RestMethod -Uri "https://redxhub.com/raw/regeditfix.ps1" -UseBasicParsing)
         $encoded = [Convert]::ToBase64String([Text.Encoding]::Unicode.GetBytes($scriptContent))
@@ -21,6 +30,9 @@ if (-not $isAdmin) {
 
 $ErrorActionPreference = "Stop"
 
+# ─────────────────────────────────────────────────────────────
+# ADIM 1 – Steam'i Kapat
+# ─────────────────────────────────────────────────────────────
 Write-Host ""
 Write-Host "═══════════════════════════════════════════════════" -ForegroundColor DarkCyan
 Write-Host " ADIM 1: Steam kapatılıyor..." -ForegroundColor Cyan
@@ -35,12 +47,15 @@ if ($steamProcesses) {
     Write-Host "Steam zaten çalışmıyor." -ForegroundColor Yellow
 }
 
-
+# ─────────────────────────────────────────────────────────────
+# ADIM 2 – Steam Klasöründen DLL Dosyalarını Sil
+# ─────────────────────────────────────────────────────────────
 Write-Host ""
 Write-Host "═══════════════════════════════════════════════════" -ForegroundColor DarkCyan
 Write-Host " ADIM 2: DLL dosyaları siliniyor..." -ForegroundColor Cyan
 Write-Host "═══════════════════════════════════════════════════" -ForegroundColor DarkCyan
 
+# Steam kurulum klasörünü kayıt defterinden bul
 $steamInstallPath = $null
 $regPaths = @(
     "HKLM:\SOFTWARE\Valve\Steam",
@@ -58,6 +73,7 @@ foreach ($rp in $regPaths) {
 }
 
 if (-not $steamInstallPath) {
+    # Kayıt defterinde bulunamazsa yaygın konumları dene
     $commonPaths = @(
         "C:\Program Files (x86)\Steam",
         "C:\Program Files\Steam",
@@ -84,10 +100,21 @@ if ($steamInstallPath) {
             Write-Host "Bulunamadı (atlandı): $dllPath" -ForegroundColor Yellow
         }
     }
+    
+    $packageInfoPath = Join-Path $steamInstallPath "appcache\packageinfo.vdf"
+    if (Test-Path $packageInfoPath) {
+        Remove-Item -Path $packageInfoPath -Force
+        Write-Host "Silindi : $packageInfoPath" -ForegroundColor Green
+    } else {
+        Write-Host "Bulunamadı (atlandı): $packageInfoPath" -ForegroundColor Yellow
+    }
 } else {
     Write-Host "UYARI: Steam kurulum klasörü bulunamadı. DLL silme adımı atlandı." -ForegroundColor Red
 }
 
+# ─────────────────────────────────────────────────────────────
+# ADIM 3 – Steamtools Kayıt Defteri Anahtarını Sil
+# ─────────────────────────────────────────────────────────────
 Write-Host ""
 Write-Host "═══════════════════════════════════════════════════" -ForegroundColor DarkCyan
 Write-Host " ADIM 3: Steamtools kayıt defteri anahtarı siliniyor..." -ForegroundColor Cyan
@@ -157,6 +184,9 @@ if ($registryKey -ne $null) {
     }
 }
 
+# ─────────────────────────────────────────────────────────────
+# ADIM 4 – redxhub.com fix.ps1 Çalıştır
+# ─────────────────────────────────────────────────────────────
 Write-Host ""
 Write-Host "═══════════════════════════════════════════════════" -ForegroundColor DarkCyan
 Write-Host " ADIM 4: RedX fix scripti çalıştırılıyor..." -ForegroundColor Cyan
@@ -169,7 +199,9 @@ try {
     Write-Host "Hata (ADIM 4): $_" -ForegroundColor Red
 }
 
-
+# ─────────────────────────────────────────────────────────────
+# ADIM 5 – GitHub fix.ps1 Çalıştır
+# ─────────────────────────────────────────────────────────────
 Write-Host ""
 Write-Host "═══════════════════════════════════════════════════" -ForegroundColor DarkCyan
 Write-Host " ADIM 5: GitHub fix scripti çalıştırılıyor..." -ForegroundColor Cyan
@@ -182,11 +214,15 @@ try {
     Write-Host "Hata (ADIM 5): $_" -ForegroundColor Red
 }
 
+# ─────────────────────────────────────────────────────────────
+# ADIM 6 – Steam'i Aç (Açık değilse)
+# ─────────────────────────────────────────────────────────────
 Write-Host ""
 Write-Host "═══════════════════════════════════════════════════" -ForegroundColor DarkCyan
 Write-Host " ADIM 6: Steam açılıyor / bekleniyor..." -ForegroundColor Cyan
 Write-Host "═══════════════════════════════════════════════════" -ForegroundColor DarkCyan
 
+# Steam'in kendiliğinden açılması için 15 saniye bekle
 Write-Host "Steam'in açılması için 15 saniye bekleniyor..." -ForegroundColor Gray
 Start-Sleep -Seconds 15
 
@@ -209,6 +245,7 @@ if ($steamRunning) {
     }
 }
 
+# ─────────────────────────────────────────────────────────────
 Write-Host ""
 Write-Host "═══════════════════════════════════════════════════" -ForegroundColor DarkCyan
 Write-Host " TÜM İŞLEMLER TAMAMLANDI!" -ForegroundColor Green
