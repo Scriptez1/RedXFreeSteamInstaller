@@ -845,5 +845,496 @@
             "discount_percent": 0,
             "final_price_formatted": "$5.99"
         }
+    },
+    "3768760": {
+        "name": "007 First Light",
+        "short_description": "Earn the Number. 007 First Light is a thrilling espionage action-adventure game from IO Interactive. Follow James Bond as a young, resourceful and sometimes reckless recruit in MI6's training programme, and discover an origin story of the world’s most famous spy.",
+        "release_date": "May 26, 2026",
+        "developers": [
+            "IO Interactive A/S"
+        ],
+        "publishers": [
+            "IO Interactive A/S"
+        ],
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 6999,
+            "final_price_cents": 6999,
+            "discount_percent": 0,
+            "final_price_formatted": "$69.99"
+        }
+    },
+    "3859630": {
+        "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
+        "short_description": "This second installment to the collection features “Metal Gear Solid 4: Guns of the Patriots” and “Metal Gear Solid: Peace Walker (HD Collection version),” and also a digital soundtrack and &quot;Metal Gear: Ghost Babel&quot; as bonus content.",
+        "release_date": "Aug 27, 2026",
+        "developers": [
+            "KONAMI"
+        ],
+        "publishers": [
+            "KONAMI"
+        ],
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 4999,
+            "final_price_cents": 4999,
+            "discount_percent": 0,
+            "final_price_formatted": "$49.99"
+        }
+    },
+    "3898750": {
+        "name": "VoxMagic - Realtime Voice Changer",
+        "short_description": "Your voice, your playground! VoxMagic is the ultimate sidekick: switch from kawaii girl to burly dude in game chats, swap personas mid‑stream, remix recordings or any audio file! Voice magic plus a variety of sound effects. No mix, EQ, or editing hassles—VoxMagic makes it easy!",
+        "release_date": "Sep 16, 2025",
+        "developers": [
+            "Fionnshare"
+        ],
+        "publishers": [
+            "Fionnshare"
+        ],
+        "genres": [
+            "Audio Production",
+            "Utilities"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 1199,
+            "final_price_cents": 1199,
+            "discount_percent": 0,
+            "final_price_formatted": "$11.99"
+        }
+    },
+    "2327720": {
+        "name": "City Car Driving 2.0",
+        "short_description": "City Car Driving 2.0 is a driving simulator designed to help novice drivers master driving in a setting as close to reality as possible.",
+        "release_date": "Jun 16, 2026",
+        "developers": [
+            "Forward Development, Ltd."
+        ],
+        "publishers": [
+            " Forward Global Group, Ltd."
+        ],
+        "genres": [
+            "Indie",
+            "Racing",
+            "Simulation",
+            "Early Access"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 2999,
+            "final_price_cents": 2999,
+            "discount_percent": 0,
+            "final_price_formatted": "$29.99"
+        }
+    },
+    "4286510": {
+        "name": "Plobania 47/B",
+        "short_description": "Immortality is not a blessing, it is a burden. As Milton Clarke, you work at the 47/B Mandatory Sleep Hospital, review documents, surf the internet, and decide who will no longer exist. You don’t kill anyone. You only “put them to sleep.” The rules are clear. Every decision has consequences.",
+        "release_date": "Q3 2026",
+        "developers": [
+            "Two Bites"
+        ],
+        "publishers": [
+            "Two Bites"
+        ],
+        "genres": [
+            "Adventure",
+            "Casual",
+            "Indie",
+            "Simulation"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 0,
+            "final_price_cents": 0,
+            "discount_percent": 0,
+            "final_price_formatted": "Free"
+        }
+    },
+    "325724": {
+        "name": "Dying Light: The Following",
+        "short_description": "Experience the untold chapter of Kyle Crane's story set in a vast breathtaking region outside the city of Harran. Leave the city walls behind and discover a countryside full of mysterious characters, deadly weapons and blood-chilling quests.",
+        "release_date": "Feb 8, 2016",
+        "developers": [
+            "Techland"
+        ],
+        "publishers": [
+            "Techland Publishing"
+        ],
+        "genres": [
+            "Action",
+            "RPG"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 1499,
+            "final_price_cents": 1499,
+            "discount_percent": 0,
+            "final_price_formatted": "$14.99"
+        }
+    },
+    "3385970": {
+        "name": "Beyond Sandbox",
+        "short_description": "Beyond Sandbox is a multiplayer VR modding platform powered by Unreal Engine 5. With advanced physics and the creativity of our modding community, anything is possible.",
+        "release_date": "Apr 27, 2026",
+        "developers": [
+            "Atlas XR"
+        ],
+        "publishers": [
+            "2080 Games"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "Simulation",
+            "Early Access"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 1999,
+            "final_price_cents": 1999,
+            "discount_percent": 0,
+            "final_price_formatted": "$19.99"
+        }
+    },
+    "3476880": {
+        "name": "Brno Transit",
+        "short_description": "A short narrative-driven psychological horror game about a trainee metro driver trapped in the dampest subway east of anything that matters.",
+        "release_date": "Apr 23, 2026",
+        "developers": [
+            "Spytihněv"
+        ],
+        "publishers": [
+            "Spytihněv"
+        ],
+        "genres": [
+            "Adventure",
+            "Casual",
+            "Indie",
+            "Simulation"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 899,
+            "final_price_cents": 899,
+            "discount_percent": 0,
+            "final_price_formatted": "$8.99"
+        }
+    },
+    "2486930": {
+        "name": "Dark Riddle",
+        "short_description": "Find out the scary secrets of the neighbor.",
+        "release_date": "Dec 12, 2023",
+        "developers": [
+            "PAGA GAMES OU"
+        ],
+        "publishers": [
+            "PAGA GAMES OU"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Free To Play"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 0,
+            "final_price_cents": 0,
+            "discount_percent": 0,
+            "final_price_formatted": "Free"
+        }
+    },
+    "1962663": {
+        "name": "Call of Duty®: Warzone™",
+        "short_description": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes &amp; new gameplay features across three new geo updates in Fortune's Keep, Endgame (for a limited time), Battle Royale, Black Ops Royale, and Resurgence.",
+        "release_date": "Nov 16, 2022",
+        "developers": [
+            "Infinity Ward",
+            "Raven Software",
+            "Beenox",
+            "Treyarch",
+            "High Moon Studios",
+            "Sledgehammer Games",
+            "Activision Shanghai",
+            "Demonware",
+            "Toys for Bob"
+        ],
+        "publishers": [
+            "Activision"
+        ],
+        "genres": [
+            "Action",
+            "Free To Play"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 0,
+            "final_price_cents": 0,
+            "discount_percent": 0,
+            "final_price_formatted": "Free"
+        }
+    },
+    "4450800": {
+        "name": "Idols of Ash",
+        "short_description": "Grapple, clamber and fall thousands of meters down into a dark and ancient place in this first-person horror climbing game. You are being hunted.",
+        "release_date": "Apr 9, 2026",
+        "developers": [
+            "Leafy Games"
+        ],
+        "publishers": [
+            "Leafy Games"
+        ],
+        "genres": [
+            "Adventure",
+            "Indie",
+            "Simulation"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 299,
+            "final_price_cents": 299,
+            "discount_percent": 0,
+            "final_price_formatted": "$2.99"
+        }
+    },
+    "2873660": {
+        "name": "Global Rescue",
+        "short_description": "Build your own base and take command of firefighting, police, EMS, and SWAT operations. Thanks to real map data, you can play right in your hometown - or anywhere in the world! Manage your fleet, hire staff, and take on a variety of authentic operations. In which city are you taking command?",
+        "release_date": "Apr 27, 2026",
+        "developers": [
+            "PeDePe GbR "
+        ],
+        "publishers": [
+            "Aerosoft GmbH "
+        ],
+        "genres": [
+            "Simulation",
+            "Strategy",
+            "Early Access"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 2499,
+            "final_price_cents": 2499,
+            "discount_percent": 0,
+            "final_price_formatted": "$24.99"
+        }
+    },
+    "2302120": {
+        "name": "Infinitum: The Backrooms Story",
+        "short_description": "INFINITUM is a horror open-world survival co-op story game for up to 4 players. Explore endless procedurally generated levels and uncover multiple endings, with every playthrough offering a unique experience.",
+        "release_date": "To be announced",
+        "developers": [
+            "Sabito"
+        ],
+        "publishers": [
+            "Sabito"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "Simulation",
+            "Free To Play",
+            "Early Access"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 0,
+            "final_price_cents": 0,
+            "discount_percent": 0,
+            "final_price_formatted": "Free"
+        }
+    },
+    "4161620": {
+        "name": "Summer Delicious Simulator",
+        "short_description": "Start your career on the bustling city streets as an ice cream or hotdog vendor! Upgrade your cart, outsmart your rivals, and compete with friends to become the most popular seller in town!",
+        "release_date": "Mar 13, 2026",
+        "developers": [
+            "BitRaiders Games"
+        ],
+        "publishers": [
+            "BitRaiders Games"
+        ],
+        "genres": [
+            "Casual",
+            "Indie",
+            "Simulation"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 599,
+            "final_price_cents": 599,
+            "discount_percent": 0,
+            "final_price_formatted": "$5.99"
+        }
+    },
+    "4157170": {
+        "name": "Sports Card Shop Simulator",
+        "short_description": "Open packs, search for rare cards, and build the best sports card shop. Hunt for holos, autos, and numbered variants to satisfy your collection obsession. Design custom cards and enjoy the thrill of pulling those creations from a fresh pack!",
+        "release_date": "Jun 4, 2026",
+        "developers": [
+            "OverPowered Team"
+        ],
+        "publishers": [
+            "Ultimate Games S.A.",
+            "PlayWay S.A."
+        ],
+        "genres": [
+            "Indie",
+            "Simulation",
+            "Sports",
+            "Early Access"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 1299,
+            "final_price_cents": 1299,
+            "discount_percent": 0,
+            "final_price_formatted": "$12.99"
+        }
+    },
+    "2904040": {
+        "name": "Cheap Car Repair",
+        "short_description": "Cheap Car Repair - go back in time to Poland of the 90's. Run your own Cheap Car Repair shop. Look for savings wherever you can. Make lots of money and avoid angry customers!",
+        "release_date": "May 28, 2026",
+        "developers": [
+            "Little Dog Games"
+        ],
+        "publishers": [
+            "Simplicity Games",
+            "PlayWay S.A."
+        ],
+        "genres": [
+            "Adventure",
+            "Indie",
+            "Simulation",
+            "Strategy"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 1969,
+            "final_price_cents": 1969,
+            "discount_percent": 0,
+            "final_price_formatted": "$19.69"
+        }
+    },
+    "4669230": {
+        "name": "Traders Life Together",
+        "short_description": "Start your supermarket business and make your own trading Journey! With Co-op support Play solo or team up with friends, featuring over 300 items you can make your dream store, enjoy it with your friends!",
+        "release_date": "May 16, 2026",
+        "developers": [
+            "DNA ARMY GAMING"
+        ],
+        "publishers": [
+            "DNA ARMY GAMING"
+        ],
+        "genres": [
+            "Casual",
+            "Indie",
+            "Simulation"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 1999,
+            "final_price_cents": 1999,
+            "discount_percent": 0,
+            "final_price_formatted": "$19.99"
+        }
     }
 }
