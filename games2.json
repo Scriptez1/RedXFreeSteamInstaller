@@ -514,7 +514,7 @@
             "discount_percent": 0,
             "final_price_formatted": "$69.99"
         }
-   },
+    },
     "2681030": {
         "name": "Outbound",
         "short_description": "Explore a colorful world and build your own cozy home on wheels. Craft workstations, and source energy from the sun, wind, or water. Upgrade and customize your vehicle, grow crops, and live sustainably off-grid with up to 4 players.",
@@ -541,7 +541,7 @@
             "discount_percent": 10,
             "final_price_formatted": "$22.49"
         }
-    }, 
+    },
     "2215200": {
         "name": "LEGO® Batman™: Legacy of the Dark Knight",
         "short_description": "Rise as the Dark Knight and experience the essential Batman story in a bold, action-packed adventure with hard-hitting combat, an open-world Gotham City, and the signature LEGO charm that fans know and love.",
@@ -792,7 +792,7 @@
             "final_price_formatted": "Free to Play"
         }
     },
-     "4333460": {
+    "4333460": {
         "name": "The Meter is Running",
         "short_description": "You inherited a taxi dispatch business but it came with debt attached. Hire drivers, dispatch fares, navigate Istanbul's chaos, deal with bad customers and worse luck. You have 15 days to pay it off or lose everything. The meter is running.",
         "release_date": "May 22, 2026",
@@ -818,6 +818,32 @@
             "final_price_cents": 700,
             "discount_percent": 0,
             "final_price_formatted": "$7.00"
+        }
+    },
+    "4704690": {
+        "name": "MECCHA CHAMELEON",
+        "short_description": "Paint yourself to blend in! &quot;Meccha Chameleon&quot; is a new-sensation hide-and-seek game where you paint your white body to mimic the stage. Spot, pose, and &quot;artistic skill&quot; are keys to survival. Deceive Seekers with techniques that put chameleons to shame! Supports public matches and streaming.",
+        "release_date": "Jun 9, 2026",
+        "developers": [
+            "lemorion_1224"
+        ],
+        "publishers": [
+            "lemorion_1224"
+        ],
+        "genres": [
+            "Casual"
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "price_overview": {
+            "currency": "USD",
+            "initial_price_cents": 599,
+            "final_price_cents": 599,
+            "discount_percent": 0,
+            "final_price_formatted": "$5.99"
         }
     }
 }
