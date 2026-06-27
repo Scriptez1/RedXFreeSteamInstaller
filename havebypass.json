@@ -97,7 +97,7 @@
     "Planet Coaster": { "appid": 493340, "working": 1, "exe": 1, "steam": 1, "hypervisor": 0 },
     "Resident Evil 4": { "appid": 2050650, "working": 1, "exe": 1, "steam": 1, "hypervisor": 0 },
     "Resident Evil Requiem": { "appid": 3764200, "working": 0, "exe": 1, "steam": 1, "hypervisor": 0 },
-    "Resident Evil Requiem": { "appid": 3764200, "working": 1, "exe": 1, "steam": 1, "hypervisor": 1 },
+    "Resident Evil Requiem": { "appid": 3764200, "working": 0, "exe": 1, "steam": 1, "hypervisor": 1 },
     "Sniper Elite 4": { "appid": 312660, "working": 1, "exe": 1, "steam": 1, "hypervisor": 0 },
     "Sonic Frontiers": { "appid": 1237320, "working": 1, "exe": 1, "steam": 1, "hypervisor": 0 },
     "PRAGMATA": { "appid": 3357650, "working": 1, "exe": 1, "steam": 1, "hypervisor": 0 },
