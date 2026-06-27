@@ -72,9 +72,8 @@
     "Red Dead Redemption II": { "appid": 1174180, "working": 1, "exe": 1, "steam": 0, "hypervisor": 0 }
   },
   "Denuvo": {
-    "Football Manager 26": { "appid": 3768760, "working": 1, "exe": 1, "steam": 1, "hypervisor": 1 },
+    "Football Manager 26": { "appid": 3551340, "working": 1, "exe": 1, "steam": 1, "hypervisor": 1 },
     "007 First Light": { "appid": 3768760, "working": 1, "exe": 1, "steam": 1, "hypervisor": 0 },
-    "Mortal Combat 1": { "appid": 1971870, "working": 1, "exe": 1, "steam": 1, "hypervisor": 1 },
     "Mortal Combat 1": { "appid": 1971870, "working": 1, "exe": 1, "steam": 1, "hypervisor": 1 },
     "Crimson Desert": { "appid": 3321460, "working": 1, "exe": 1, "steam": 1, "hypervisor": 0 },
     "DOOM: The Dark Ages": { "appid": 3017860, "working": 1, "exe": 1, "steam": 1, "hypervisor": 0 },
