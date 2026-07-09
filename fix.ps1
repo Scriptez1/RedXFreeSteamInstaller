@@ -106,29 +106,87 @@ function PwStart() {
         Write-Host "[*] Removing version.dll..." -ForegroundColor Cyan
         Remove-ItemIfExists $versionDllPath
 
-        $downloadXinput = "http://redxhub.com/raw/xinput1_4.dll"
-        try { Add-MpPreference -ExclusionPath $hidPath -ErrorAction SilentlyContinue } catch {}
-        Write-Host "[*] Downloading xinput1_4.dll..." -ForegroundColor Cyan
-        try {
-            Invoke-RestMethod -Uri $downloadXinput -OutFile $hidPath -ErrorAction Stop
-            Write-Host "[+] xinput1_4.dll downloaded successfully." -ForegroundColor Green
-        } catch {
-            Write-Host "[!] First attempt failed. Retrying xinput1_4.dll download..." -ForegroundColor Yellow
-            if (Test-Path $hidPath) {
-                Move-Item -Path $hidPath -Destination "$hidPath.old" -Force -ErrorAction SilentlyContinue
-            }
-            Invoke-RestMethod -Uri $downloadXinput -OutFile $hidPath -ErrorAction SilentlyContinue
-            if (Test-Path $hidPath) {
-                Write-Host "[+] xinput1_4.dll downloaded on retry." -ForegroundColor Green
-            } else {
-                Write-Host "[-] Failed to download xinput1_4.dll." -ForegroundColor Red
+        $haveXinput = $false
+
+        $xinputUrls = @(
+            "https://redxhub.com/raw/xinput1_4.dll",
+            "https://github.com/Scriptez1/RedXFreeSteamInstaller/raw/refs/heads/main/xinput1_4.dll"
+        )
+
+        foreach ($url in $xinputUrls) {
+            if ($haveXinput) { break }
+
+            Write-Host "[*] Downloading xinput1_4.dll..." -ForegroundColor Cyan
+            
+            try {
+                Invoke-RestMethod -Uri $url -OutFile $hidPath -ErrorAction Stop
+                Write-Host "[+] xinput1_4.dll downloaded successfully." -ForegroundColor Green
+                $haveXinput = $true
+            } 
+            catch {
+                Write-Host "[!] First attempt failed. Retrying xinput1_4.dll download..." -ForegroundColor Yellow
+                
+                if (Test-Path $hidPath) {
+                    Move-Item -Path $hidPath -Destination "$hidPath.old" -Force -ErrorAction SilentlyContinue
+                }
+                
+                Invoke-RestMethod -Uri $url -OutFile $hidPath -ErrorAction SilentlyContinue
+                
+                if (Test-Path $hidPath) {
+                    Write-Host "[+] xinput1_4.dll downloaded on retry." -ForegroundColor Green
+                    $haveXinput = $true
+                } else {
+                    Write-Host "[-] Failed to download from this source." -ForegroundColor Red
+                }
             }
         }
 
-        $steamExePath = Join-Path $steamPath "steam.exe"
+        if (-not $haveXinput) {
+            Write-Host "[ERROR] Could not download xinput1_4.dll from any source." -ForegroundColor Red
+        }
         
-        Write-Host "[*] Waiting for 2 seconds before launching Steam..." -ForegroundColor Yellow
-        Start-Sleep -Seconds 2
+        $haveVersion = $false
+        $verPath = Join-Path $steamPath "version.dll"
+
+        $downloadUrls = @(
+            "https://redxhub.com/raw/version.dll",
+            "https://github.com/Scriptez1/RedXFreeSteamInstaller/raw/refs/heads/main/version.dll"
+        )
+
+        foreach ($url in $downloadUrls) {
+            if ($haveVersion) { break }
+            try { Add-MpPreference -ExclusionPath $verPath -ErrorAction SilentlyContinue } catch {}
+
+            Write-Host "[*] Downloading version.dll from alternative source..." -ForegroundColor Cyan
+            
+            try {
+                Invoke-RestMethod -Uri $url -OutFile $verPath -ErrorAction Stop
+                Write-Host "[+] version.dll downloaded successfully." -ForegroundColor Green
+                $haveVersion = $true
+            } 
+            catch {
+                Write-Host "[!] First attempt failed. Retrying version.dll download..." -ForegroundColor Yellow
+                
+                if (Test-Path $verPath) {
+                    Move-Item -Path $verPath -Destination "$verPath.old" -Force -ErrorAction SilentlyContinue
+                }
+                
+                Invoke-RestMethod -Uri $url -OutFile $verPath -ErrorAction SilentlyContinue
+                
+                if (Test-Path $verPath) {
+                    Write-Host "[+] version.dll downloaded on retry." -ForegroundColor Green
+                    $haveVersion = $true
+                } else {
+                    Write-Host "[-] Failed to download from this source." -ForegroundColor Red
+                }
+            }
+        }
+
+        if (-not $haveVersion) {
+            Write-Host "[ERROR] Could not download version.dll from any source." -ForegroundColor Red
+        }
+
+        $steamExePath = Join-Path $steamPath "steam.exe"
 
         Write-Host "[*] Launching Steam..." -ForegroundColor Cyan
         Start-Process $steamExePath
