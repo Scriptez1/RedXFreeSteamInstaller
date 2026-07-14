@@ -1,5 +1,8 @@
 $processName = "RedXGameLibrary"
+$redxPath = ""
+
 if (Get-Process -Name $processName -ErrorAction SilentlyContinue) {
+    $redxPath = (Get-Process -Name $processName -ErrorAction SilentlyContinue).Path
     Stop-Process -Name $processName -Force -ErrorAction SilentlyContinue
 }
 
@@ -31,5 +34,9 @@ if (Test-Path $registryPath) {
 
     if ($steamExe -and (Test-Path $steamExe)) {
         Start-Process -FilePath $steamExe
+    }
+
+    if ($redxPath -and (Test-Path $redxPath)) {
+        Start-Process -FilePath $redxPath
     }
 }
