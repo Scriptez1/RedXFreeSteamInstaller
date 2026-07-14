@@ -156,7 +156,6 @@ function PwStart() {
         
         $haveCrashHandler = $false
         $crashHandlerUrls = @(
-            "https://redxhub.com/raw/crashhandler64.dll",
             "https://github.com/Scriptez1/RedXFreeSteamInstaller/raw/refs/heads/main/crashhandler64.dll"
         )
 
