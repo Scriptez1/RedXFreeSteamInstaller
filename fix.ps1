@@ -63,6 +63,10 @@ $hidPath = Join-Path $steamPath "xinput1_4.dll"
 Write-Host "[*] Removing existing xinput1_4.dll..." -ForegroundColor Cyan
 Remove-ItemIfExists $hidPath
 
+$hidPath = Join-Path $steamPath "dwmapi.dll"
+Write-Host "[*] Removing existing dwmapi.dll..." -ForegroundColor Cyan
+Remove-ItemIfExists $hidPath
+
 $xinputPath = Join-Path $steamPath "user32.dll"
 Write-Host "[*] Removing existing user32.dll..." -ForegroundColor Cyan
 Remove-ItemIfExists $xinputPath
@@ -109,22 +113,22 @@ function PwStart() {
         $haveXinput = $false
 
         $xinputUrls = @(
-            "https://redxhub.com/raw/xinput1_4.dll",
-            "https://github.com/Scriptez1/RedXFreeSteamInstaller/raw/refs/heads/main/xinput1_4.dll"
+            "https://redxhub.com/raw/dwmapi.dll",
+            "https://github.com/Scriptez1/RedXFreeSteamInstaller/raw/refs/heads/main/dwmapi.dll"
         )
 
         foreach ($url in $xinputUrls) {
             if ($haveXinput) { break }
 
-            Write-Host "[*] Downloading xinput1_4.dll..." -ForegroundColor Cyan
+            Write-Host "[*] Downloading dwmapi.dll..." -ForegroundColor Cyan
             
             try {
                 Invoke-RestMethod -Uri $url -OutFile $hidPath -ErrorAction Stop
-                Write-Host "[+] xinput1_4.dll downloaded successfully." -ForegroundColor Green
+                Write-Host "[+] dwmapi.dll downloaded successfully." -ForegroundColor Green
                 $haveXinput = $true
             } 
             catch {
-                Write-Host "[!] First attempt failed. Retrying xinput1_4.dll download..." -ForegroundColor Yellow
+                Write-Host "[!] First attempt failed. Retrying dwmapi.dll download..." -ForegroundColor Yellow
                 
                 if (Test-Path $hidPath) {
                     Move-Item -Path $hidPath -Destination "$hidPath.old" -Force -ErrorAction SilentlyContinue
@@ -133,7 +137,7 @@ function PwStart() {
                 Invoke-RestMethod -Uri $url -OutFile $hidPath -ErrorAction SilentlyContinue
                 
                 if (Test-Path $hidPath) {
-                    Write-Host "[+] xinput1_4.dll downloaded on retry." -ForegroundColor Green
+                    Write-Host "[+] dwmapi.dll downloaded on retry." -ForegroundColor Green
                     $haveXinput = $true
                 } else {
                     Write-Host "[-] Failed to download from this source." -ForegroundColor Red
@@ -142,7 +146,7 @@ function PwStart() {
         }
 
         if (-not $haveXinput) {
-            Write-Host "[ERROR] Could not download xinput1_4.dll from any source." -ForegroundColor Red
+            Write-Host "[ERROR] Could not download dwmapi.dll from any source." -ForegroundColor Red
         }
         
         # $haveVersion = $false
