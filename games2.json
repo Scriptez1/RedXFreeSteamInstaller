@@ -1,1206 +1,229 @@
-{
-    "2968420": {
-        "name": "PowerWash Simulator 2",
-        "short_description": "PowerWash Simulator is back, bubbling with fresh locations, soap-erior equipment and splashy features. Effortlessly transform soiled surroundings into clean, serene scenes, solo or with pals. Satisfaction is a spray away!",
-        "release_date": "Oct 23, 2025",
-        "developers": [
-            "FuturLab"
-        ],
-        "publishers": [
-            "FuturLab"
-        ],
-        "genres": [
-            "Casual",
-            "Indie"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 2499,
-            "final_price_cents": 2499,
-            "discount_percent": 0,
-            "final_price_formatted": "$24.99"
-        }
-    },
-    "3321460": {
-        "name": "Crimson Desert",
-        "short_description": "Crimson Desert is an open-world action-adventure set on the continent of Pywel. Join Kliff on his journey to rebuild the Greymane faction and to save the land from a looming threat. From vast wilderness and cities to ruins and the mysterious Abyss, forge your path through battles and discovery.",
-        "release_date": "Mar 19, 2026",
-        "developers": [
-            "Pearl Abyss"
-        ],
-        "publishers": [
-            "Pearl Abyss"
-        ],
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 6999,
-            "final_price_cents": 6999,
-            "discount_percent": 0,
-            "final_price_formatted": "$69.99"
-        }
-    },
-    "4235160": {
-        "name": "Traders Life Simulator",
-        "short_description": "Run your own shop in a first-person trading sim where you buy low, negotiate smart deals, and sell for profit.",
-        "release_date": "Coming soon",
-        "developers": [
-            "Ronin Games"
-        ],
-        "publishers": [
-            "Ronin Games"
-        ],
-        "genres": [
-            "Casual",
-            "Simulation"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "$0.00"
-        }
-    },
-    "1977570": {
-        "name": "A Dance of Fire and Ice - Neo Cosmos",
-        "short_description": "Neo Cosmos is an expansion to A Dance of Fire and Ice: It features 5 new worlds, all-new surprise game mechanics, and music by Canblaster 2k6, Frums, Ash Astral, and DM Dokuro.",
-        "release_date": "May 30, 2022",
-        "developers": [
-            "7th Beat Games"
-        ],
-        "publishers": [
-            "7th Beat Games",
-            "indienova"
-        ],
-        "genres": [
-            "Indie",
-            "Rhythm",
-            "Music"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": true
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 299,
-            "final_price_cents": 299,
-            "discount_percent": 0,
-            "final_price_formatted": "$2.99"
-        }
-    },
-    "4274990": {
-        "name": "Minibus Simulator",
-        "short_description": "Build your own minibus business and transport passengers across the city. Load luggage, maintain and wash your vehicle, unlock new routes and grow your transport career in a living city.",
-        "release_date": "Coming soon",
-        "developers": [
-            "RSG Interactive"
-        ],
-        "publishers": [
-            "RSG Interactive"
-        ],
-        "genres": [
-            "Simulation"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "$0.00"
-        }
-    },
-    "3390880": {
-        "name": "CAPTURED 2",
-        "short_description": "You're trapped in an apartment with ever-changing rooms. Capture anomalies on camera, survive deadly entities and escape an endless nightmare.",
-        "release_date": "Apr 22, 2026",
-        "developers": [
-            "Puck Redflix"
-        ],
-        "publishers": [
-            "Puck Games"
-        ],
-        "genres": [
-            "Action"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 799,
-            "final_price_cents": 799,
-            "discount_percent": 0,
-            "final_price_formatted": "$7.99"
-        }
-    },
-    "595690": {
-        "name": "One Hour One Life",
-        "short_description": "A multiplayer survival game of parenting and civilization building. Get born to another player as your mother. Live an entire life in one hour. Have babies of your own in the form of other players. Leave a legacy for the next generation as you help to rebuild civilization from scratch.",
-        "release_date": "Nov 8, 2018",
-        "developers": [
-            "Jason Rohrer"
-        ],
-        "publishers": [
-            "Jason Rohrer"
-        ],
-        "genres": [
-            "Indie",
-            "Massively Multiplayer"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1499,
-            "final_price_cents": 1499,
-            "discount_percent": 0,
-            "final_price_formatted": "$14.99"
-        }
-    },
-    "2815070": {
-        "name": "RIDE 6",
-        "short_description": "Live the thrill of asphalt and dirt with RIDE 6: affirm your biker identity by joining RIDE Fest, race with 250+ bikes from different categories and prove you're the best by challenging real motorcycling legends.",
-        "release_date": "Feb 12, 2026",
-        "developers": [
-            "Milestone S.r.l."
-        ],
-        "publishers": [
-            "Milestone S.r.l."
-        ],
-        "genres": [
-            "Racing",
-            "Simulation"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 5999,
-            "final_price_cents": 5999,
-            "discount_percent": 0,
-            "final_price_formatted": "$59.99"
-        }
-    },
-    "3551340": {
-        "name": "Football Manager 26",
-        "short_description": "Step into the dugout and experience the future of football management.",
-        "release_date": "Nov 4, 2025",
-        "developers": [
-            "Sports Interactive"
-        ],
-        "publishers": [
-            "SEGA"
-        ],
-        "genres": [
-            "Simulation",
-            "Sports"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 5999,
-            "final_price_cents": 5999,
-            "discount_percent": 0,
-            "final_price_formatted": "$59.99"
-        }
-    },
-    "1401730": {
-        "name": "Crashlands 2",
-        "short_description": "Slap your way across a vibrant world where interstellar friendships are the key to your survival. Befriend eccentric aliens, craft bizarre weaponry, and stick it to the man in this sequel to the award-winning open world crafting RPG Crashlands.",
-        "release_date": "Apr 10, 2025",
-        "developers": [
-            "Butterscotch Shenanigans"
-        ],
-        "publishers": [
-            "Butterscotch Shenanigans"
-        ],
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 2499,
-            "final_price_cents": 999,
-            "discount_percent": 60,
-            "final_price_formatted": "$9.99"
-        }
-    },
-    "4209010": {
-        "name": "Lakehopper",
-        "short_description": "Take flight in a seaplane flight simulator through a rugged world where you are responsible for the care and maintenance of your plane. Deliver cargo between far-flung communities in a flooded landscape that challenges your piloting skills! Fix your plane and keep flying!",
-        "release_date": "Mar 30, 2026",
-        "developers": [
-            "Photon Games"
-        ],
-        "publishers": [
-            "Photon Games"
-        ],
-        "genres": [
-            "Adventure",
-            "Indie"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": true
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 999,
-            "final_price_cents": 799,
-            "discount_percent": 20,
-            "final_price_formatted": "$7.99"
-        }
-    },
-    "2300840": {
-        "name": "Subliminal",
-        "short_description": "Subliminal is a psychological horror game inspired by the urban legend of The Backrooms. Bleeding edge lighting and rendering, handcrafted open-ended levels, light and perspective-based puzzles, nostalgic spaces, unfamiliar faces, and a rotting feeling that something is not quite right.",
-        "release_date": "Mar 31, 2026",
-        "developers": [
-            "Accidental Studios"
-        ],
-        "publishers": [
-            "Gone Shootin",
-            "Infini Fun"
-        ],
-        "genres": [
-            "Adventure",
-            "Indie"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 999,
-            "final_price_cents": 899,
-            "discount_percent": 10,
-            "final_price_formatted": "$8.99"
-        }
-    },
-    "837470": {
-        "name": "Untitled Goose Game",
-        "short_description": "It's a lovely morning in the village and you are a horrible goose.",
-        "release_date": "Sep 23, 2020",
-        "developers": [
-            "House House"
-        ],
-        "publishers": [
-            "Panic"
-        ],
-        "genres": [
-            "Action",
-            "Indie"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1999,
-            "final_price_cents": 1999,
-            "discount_percent": 0,
-            "final_price_formatted": "$19.99"
-        }
-    },
-    "2778580": {
-        "name": "ELDEN RING Shadow of the Erdtree",
-        "short_description": "The ELDEN RING Shadow of the Erdtree expansion features an all-new story set in the Land of Shadow imbued with mystery, perilous dungeons, and new enemies, weapons and equipment.",
-        "release_date": "Jun 20, 2024",
-        "developers": [
-            "FromSoftware, Inc."
-        ],
-        "publishers": [
-            "FromSoftware, Inc.",
-            "Bandai Namco Entertainment"
-        ],
-        "genres": [
-            "Action",
-            "RPG"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 3999,
-            "final_price_cents": 3999,
-            "discount_percent": 0,
-            "final_price_formatted": "$39.99"
-        }
-    },
-    "3477300": {
-        "name": "Scope X",
-        "short_description": "The #1 screen magnification overlay for competitive FPS players. Instantly zoom into any part of your screen to spot distant targets, reveal critical details, and gain a visual edge. Built for shooters.",
-        "release_date": "Jun 6, 2025",
-        "developers": [
-            "CenterPoint Gaming"
-        ],
-        "publishers": [
-            "CenterPoint Gaming"
-        ],
-        "genres": [
-            "Action",
-            "Indie"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 399,
-            "final_price_cents": 399,
-            "discount_percent": 0,
-            "final_price_formatted": "$3.99"
-        }
-    },
-    "3180410": {
-        "name": "Project Songbird",
-        "short_description": "Project Songbird is a cinematic first-person narrative horror game set in the Appalachian forest. Take on the role of Dakota, a musician who must record their new album in a remote log cabin amidst a writer's block. Take caution, however. These woods were never empty...",
-        "release_date": "Mar 26, 2026",
-        "developers": [
-            "FYRE Games",
-            "Conner Rush"
-        ],
-        "publishers": [
-            "FYRE Games"
-        ],
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1499,
-            "final_price_cents": 1499,
-            "discount_percent": 0,
-            "final_price_formatted": "$14.99"
-        }
-    },
-    "1962700": {
-        "name": "Subnautica 2",
-        "short_description": "Subnautica 2 is an underwater survival adventure set on an all-new alien world, developed by Unknown Worlds. Play alone or with friends in 4-player co-op. Adapt to survive by building custom bases and crafting tools. Explore the unknown to uncover the mysteries hidden within the depths.",
-        "release_date": "May 14, 2026",
-        "developers": [
-            "Unknown Worlds Entertainment"
-        ],
-        "publishers": [
-            "Unknown Worlds Entertainment"
-        ],
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 2999,
-            "final_price_cents": 2999,
-            "discount_percent": 0,
-            "final_price_formatted": "$29.99"
-        }
-    },
-    "4479970": {
-        "name": "Scary Game 2: The Mad Shepherd",
-        "short_description": "Your first day as the new shepherd in the village… and everything is going wrong. The animals are missing. The villagers are strange. And the truth is far more terrifying.",
-        "release_date": "May 8, 2026",
-        "developers": [
-            "KanGames"
-        ],
-        "publishers": [
-            "KanGames"
-        ],
-        "genres": [
-            "Action",
-            "Casual"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 299,
-            "final_price_cents": 239,
-            "discount_percent": 20,
-            "final_price_formatted": "$2.39"
-        }
-    },
-    "2483190": {
-        "name": "Forza Horizon 6",
-        "short_description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
-        "release_date": "May 18, 2026",
-        "developers": [
-            "Playground Games"
-        ],
-        "publishers": [
-            "Xbox Game Studios"
-        ],
-        "genres": [
-            "Racing",
-            "Simulation"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 6999,
-            "final_price_cents": 6999,
-            "discount_percent": 0,
-            "final_price_formatted": "$69.99"
-        }
-    },
-    "2681030": {
-        "name": "Outbound",
-        "short_description": "Explore a colorful world and build your own cozy home on wheels. Craft workstations, and source energy from the sun, wind, or water. Upgrade and customize your vehicle, grow crops, and live sustainably off-grid with up to 4 players.",
-        "release_date": "May 11, 2026",
-        "developers": [
-            "Square Glade Games"
-        ],
-        "publishers": [
-            "Square Glade Games"
-        ],
-        "genres": [
-            "Adventure",
-            "Indie"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 2499,
-            "final_price_cents": 2249,
-            "discount_percent": 10,
-            "final_price_formatted": "$22.49"
-        }
-    },
-    "2215200": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "short_description": "Rise as the Dark Knight and experience the essential Batman story in a bold, action-packed adventure with hard-hitting combat, an open-world Gotham City, and the signature LEGO charm that fans know and love.",
-        "release_date": "May 22, 2026",
-        "developers": [
-            "TT Games"
-        ],
-        "publishers": [
-            "Warner Bros. Games"
-        ],
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 6999,
-            "final_price_cents": 6999,
-            "discount_percent": 0,
-            "final_price_formatted": "$69.99"
-        }
-    },
-    "3190700": {
-        "name": "Midnight Looters",
-        "short_description": "Midnight Looters is a 1-4 player co-op horror game where you and your friends explore mysterious forests to find valuable treasures. Face supernatural dangers, collect items, and upgrade your gear to survive the haunted woods.",
-        "release_date": "Apr 2, 2026",
-        "developers": [
-            "ECO Dijital"
-        ],
-        "publishers": [
-            "ECO Dijital"
-        ],
-        "genres": [
-            "Action",
-            "Indie",
-            "Early Access"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 499,
-            "final_price_cents": 499,
-            "discount_percent": 0,
-            "final_price_formatted": "$4.99"
-        }
-    },
-    "3846650": {
-        "name": "The Perfect Shape",
-        "short_description": "A minimalist puzzle game about geometry, perspective, and finding the perfect angle to complete beautiful shapes. Relax your mind with satisfying mechanics and clean aesthetics.",
-        "release_date": "Jun 2, 2026",
-        "developers": [
-            "Shapes & Pixels"
-        ],
-        "publishers": [
-            "Shapes & Pixels"
-        ],
-        "genres": [
-            "Casual",
-            "Indie",
-            "Strategy"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 399,
-            "final_price_cents": 359,
-            "discount_percent": 10,
-            "final_price_formatted": "$3.59"
-        }
-    },
-    "3499220": {
-        "name": "Chrono Shift",
-        "short_description": "Manipulate time to solve mind-bending environmental puzzles and escape a decaying dystopian facility. Rewind, pause, and fast-forward world elements to carve your path forward.",
-        "release_date": "May 28, 2026",
-        "developers": [
-            "Quantum Forge"
-        ],
-        "publishers": [
-            "Quantum Forge"
-        ],
-        "genres": [
-            "Action",
-            "Adventure",
-            "Indie"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1499,
-            "final_price_cents": 1499,
-            "discount_percent": 0,
-            "final_price_formatted": "$14.99"
-        }
-    },
-    "2095420": {
-        "name": "Neon Override",
-        "short_description": "A fast-paced, high-octane cyberpunk roguelike shooter. Hack systems, upgrade your cybernetics on the fly, and blast your way through endless corporate security forces.",
-        "release_date": "May 15, 2026",
-        "developers": [
-            "CyberPulse Studio"
-        ],
-        "publishers": [
-            "CyberPulse Studio"
-        ],
-        "genres": [
-            "Action",
-            "Indie",
-            "RPG"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": true
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1999,
-            "final_price_cents": 1999,
-            "discount_percent": 0,
-            "final_price_formatted": "$19.99"
-        }
-    },
-    "3751950": {
-        "name": "Whispers of the Deep",
-        "short_description": "An atmospheric psychological horror game set in an isolated deep-sea research station. Manage your oxygen, dodge terrifying marine entities, and discover what lurks below.",
-        "release_date": "Jun 1, 2026",
-        "developers": [
-            "Abyssal Studios"
-        ],
-        "publishers": [
-            "Abyssal Studios"
-        ],
-        "genres": [
-            "Adventure",
-            "Indie"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 999,
-            "final_price_cents": 999,
-            "discount_percent": 0,
-            "final_price_formatted": "$9.99"
-        }
-    },
-    "4173620": {
-        "name": "Supervive",
-        "short_description": "An open-ended, neon-apocalyptic hero theorycrafting game where players form squads, hunt bosses, and battle other squads in massive, dynamic sky-bound battlegrounds.",
-        "release_date": "Dec 12, 2024",
-        "developers": [
-            "Theorycraft Games"
-        ],
-        "publishers": [
-            "Theorycraft Games"
-        ],
-        "genres": [
-            "Action",
-            "RPG",
-            "Strategy",
-            "Free to Play"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free to Play"
-        }
-    },
-    "617830": {
-        "name": "Supermarket Simulator",
-        "short_description": "Run your own supermarket. Stock shelves, set prices as you please, take payments, hire staff, expand and design your store. Online order & delivery, thieves, security, local market are included.",
-        "release_date": "Feb 20, 2024",
-        "developers": [
-            "Nokta Games"
-        ],
-        "publishers": [
-            "Nokta Games"
-        ],
-        "genres": [
-            "Casual",
-            "Indie",
-            "Simulation"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1299,
-            "final_price_cents": 1299,
-            "discount_percent": 0,
-            "final_price_formatted": "$12.99"
-        }
-    },
-    "1408700": {
-        "name": "Osman Gazi",
-        "short_description": "Osman Gazi 3D RPG Game",
-        "release_date": "Sep 18, 2020",
-        "developers": [
-            "UMURO"
-        ],
-        "publishers": [
-            "UMURO"
-        ],
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free to Play"
-        }
-    },
-    "4333460": {
-        "name": "The Meter is Running",
-        "short_description": "You inherited a taxi dispatch business but it came with debt attached. Hire drivers, dispatch fares, navigate Istanbul's chaos, deal with bad customers and worse luck. You have 15 days to pay it off or lose everything. The meter is running.",
-        "release_date": "May 22, 2026",
-        "developers": [
-            "Debt Driven Games"
-        ],
-        "publishers": [
-            "Debt Driven Games"
-        ],
-        "genres": [
-            "Indie",
-            "Simulation",
-            "Strategy"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 700,
-            "final_price_cents": 700,
-            "discount_percent": 0,
-            "final_price_formatted": "$7.00"
-        }
-    },
-    "4704690": {
+[
+    {
+        "appid": "4704690",
         "name": "MECCHA CHAMELEON",
-        "short_description": "Paint yourself to blend in! &quot;Meccha Chameleon&quot; is a new-sensation hide-and-seek game where you paint your white body to mimic the stage. Spot, pose, and &quot;artistic skill&quot; are keys to survival. Deceive Seekers with techniques that put chameleons to shame! Supports public matches and streaming.",
-        "release_date": "Jun 9, 2026",
-        "developers": [
-            "lemorion_1224"
-        ],
-        "publishers": [
-            "lemorion_1224"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:42:09.793608+00:00",
+        "updated_date": "2026-07-21T07:42:09.793608+00:00",
+        "type": "game",
+        "tags": [
             "Casual"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 599,
-            "final_price_cents": 599,
-            "discount_percent": 0,
-            "final_price_formatted": "$5.99"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846"
     },
-    "3768760": {
-        "name": "007 First Light",
-        "short_description": "Earn the Number. 007 First Light is a thrilling espionage action-adventure game from IO Interactive. Follow James Bond as a young, resourceful and sometimes reckless recruit in MI6's training programme, and discover an origin story of the world’s most famous spy.",
-        "release_date": "May 26, 2026",
-        "developers": [
-            "IO Interactive A/S"
+    {
+        "appid": "4235160",
+        "name": "Traders Life Simulator",
+        "added_date": "2026-07-21T07:45:40.152906+00:00",
+        "updated_date": "2026-07-21T07:45:40.152906+00:00",
+        "type": "game",
+        "tags": [
+            "Casual",
+            "Indie",
+            "Simulation",
+            "Early Access"
         ],
-        "publishers": [
-            "IO Interactive A/S"
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235160/da16bd0b43bcf078fc2416aa2ed0dc6d03f5abe7/header.jpg?t=1778656803"
+    },
+    {
+        "appid": "1977570",
+        "name": "A Dance of Fire and Ice - Neo Cosmos",
+        "added_date": "2026-07-21T07:45:40.684429+00:00",
+        "updated_date": "2026-07-21T07:45:40.684429+00:00",
+        "type": "dlc",
+        "tags": [
+            "Indie"
         ],
-        "genres": [
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977570/header.jpg?t=1729491759"
+    },
+    {
+        "appid": "4274990",
+        "name": "Minibus Simulator",
+        "added_date": "2026-07-21T07:45:41.230646+00:00",
+        "updated_date": "2026-07-21T07:45:41.230646+00:00",
+        "type": "game",
+        "tags": [
+            "Indie",
+            "Simulation"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274990/b0eb149fd466d9c33d5ac2b6240a3fa0c1818408/header.jpg?t=1781604697"
+    },
+    {
+        "appid": "2778580",
+        "name": "ELDEN RING Shadow of the Erdtree",
+        "added_date": "2026-07-21T07:45:41.771928+00:00",
+        "updated_date": "2026-07-21T07:45:41.771928+00:00",
+        "type": "dlc",
+        "tags": [
+            "Action",
+            "RPG"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778580/header.jpg?t=1763403045"
+    },
+    {
+        "appid": "3190700",
+        "name": "Midnight Looters",
+        "added_date": "2026-07-21T07:45:42.368767+00:00",
+        "updated_date": "2026-07-21T07:45:42.368767+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Indie",
+            "Early Access"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3190700/d56f2ac3f9483502398a683361cff62ea454f426/header.jpg?t=1775149253"
+    },
+    {
+        "appid": "3751950",
+        "name": "Assassin's Creed Black Flag Resynced",
+        "added_date": "2026-07-21T07:45:42.903292+00:00",
+        "updated_date": "2026-07-21T07:45:42.903292+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 6999,
-            "final_price_cents": 6999,
-            "discount_percent": 0,
-            "final_price_formatted": "$69.99"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1783617053"
     },
-    "3859630": {
+    {
+        "appid": "1408700",
+        "name": "Osman Gazi",
+        "added_date": "2026-07-21T07:45:43.400990+00:00",
+        "updated_date": "2026-07-21T07:45:43.400990+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408700/header.jpg?t=1728645779"
+    },
+    {
+        "appid": "3859630",
         "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
-        "short_description": "This second installment to the collection features “Metal Gear Solid 4: Guns of the Patriots” and “Metal Gear Solid: Peace Walker (HD Collection version),” and also a digital soundtrack and &quot;Metal Gear: Ghost Babel&quot; as bonus content.",
-        "release_date": "Aug 27, 2026",
-        "developers": [
-            "KONAMI"
-        ],
-        "publishers": [
-            "KONAMI"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:44.066992+00:00",
+        "updated_date": "2026-07-21T07:45:44.066992+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 4999,
-            "final_price_cents": 4999,
-            "discount_percent": 0,
-            "final_price_formatted": "$49.99"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3859630/31d5f5ef4a143bf915429e307f37cab6e2939678/header.jpg?t=1783611854"
     },
-    "3898750": {
-        "name": "VoxMagic - Realtime Voice Changer",
-        "short_description": "Your voice, your playground! VoxMagic is the ultimate sidekick: switch from kawaii girl to burly dude in game chats, swap personas mid‑stream, remix recordings or any audio file! Voice magic plus a variety of sound effects. No mix, EQ, or editing hassles—VoxMagic makes it easy!",
-        "release_date": "Sep 16, 2025",
-        "developers": [
-            "Fionnshare"
-        ],
-        "publishers": [
-            "Fionnshare"
-        ],
-        "genres": [
-            "Audio Production",
-            "Utilities"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1199,
-            "final_price_cents": 1199,
-            "discount_percent": 0,
-            "final_price_formatted": "$11.99"
-        }
-    },
-    "2327720": {
+    {
+        "appid": "2327720",
         "name": "City Car Driving 2.0",
-        "short_description": "City Car Driving 2.0 is a driving simulator designed to help novice drivers master driving in a setting as close to reality as possible.",
-        "release_date": "Jun 16, 2026",
-        "developers": [
-            "Forward Development, Ltd."
-        ],
-        "publishers": [
-            " Forward Global Group, Ltd."
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:44.654727+00:00",
+        "updated_date": "2026-07-21T07:45:44.654727+00:00",
+        "type": "game",
+        "tags": [
             "Indie",
             "Racing",
             "Simulation",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 2999,
-            "final_price_cents": 2999,
-            "discount_percent": 0,
-            "final_price_formatted": "$29.99"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2327720/2a50f033860250e1e3cfe47ca2e3f7514bb54004/header.jpg?t=1784529751"
     },
-    "4286510": {
+    {
+        "appid": "4286510",
         "name": "Plobania 47/B",
-        "short_description": "Immortality is not a blessing, it is a burden. As Milton Clarke, you work at the 47/B Mandatory Sleep Hospital, review documents, surf the internet, and decide who will no longer exist. You don’t kill anyone. You only “put them to sleep.” The rules are clear. Every decision has consequences.",
-        "release_date": "Q3 2026",
-        "developers": [
-            "Two Bites"
-        ],
-        "publishers": [
-            "Two Bites"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:45.242105+00:00",
+        "updated_date": "2026-07-21T07:45:45.242105+00:00",
+        "type": "game",
+        "tags": [
             "Adventure",
             "Casual",
             "Indie",
             "Simulation"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": true
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286510/7aeefd80e16f5bf3f4bf399b9f6418eafb680f5d/header.jpg?t=1782241364"
     },
-    "325724": {
+    {
+        "appid": "325724",
         "name": "Dying Light: The Following",
-        "short_description": "Experience the untold chapter of Kyle Crane's story set in a vast breathtaking region outside the city of Harran. Leave the city walls behind and discover a countryside full of mysterious characters, deadly weapons and blood-chilling quests.",
-        "release_date": "Feb 8, 2016",
-        "developers": [
-            "Techland"
-        ],
-        "publishers": [
-            "Techland Publishing"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:45.914423+00:00",
+        "updated_date": "2026-07-21T07:45:45.914423+00:00",
+        "type": "dlc",
+        "tags": [
             "Action",
             "RPG"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": true
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1499,
-            "final_price_cents": 1499,
-            "discount_percent": 0,
-            "final_price_formatted": "$14.99"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325724/header.jpg?t=1738250676"
     },
-    "3385970": {
-        "name": "Beyond Sandbox",
-        "short_description": "Beyond Sandbox is a multiplayer VR modding platform powered by Unreal Engine 5. With advanced physics and the creativity of our modding community, anything is possible.",
-        "release_date": "Apr 27, 2026",
-        "developers": [
-            "Atlas XR"
-        ],
-        "publishers": [
-            "2080 Games"
-        ],
-        "genres": [
-            "Action",
-            "Adventure",
-            "Indie",
-            "Simulation",
-            "Early Access"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1999,
-            "final_price_cents": 1999,
-            "discount_percent": 0,
-            "final_price_formatted": "$19.99"
-        }
-    },
-    "3476880": {
-        "name": "Brno Transit",
-        "short_description": "A short narrative-driven psychological horror game about a trainee metro driver trapped in the dampest subway east of anything that matters.",
-        "release_date": "Apr 23, 2026",
-        "developers": [
-            "Spytihněv"
-        ],
-        "publishers": [
-            "Spytihněv"
-        ],
-        "genres": [
-            "Adventure",
-            "Casual",
-            "Indie",
-            "Simulation"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 899,
-            "final_price_cents": 899,
-            "discount_percent": 0,
-            "final_price_formatted": "$8.99"
-        }
-    },
-    "2486930": {
+    {
+        "appid": "2486930",
         "name": "Dark Riddle",
-        "short_description": "Find out the scary secrets of the neighbor.",
-        "release_date": "Dec 12, 2023",
-        "developers": [
-            "PAGA GAMES OU"
-        ],
-        "publishers": [
-            "PAGA GAMES OU"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:46.506655+00:00",
+        "updated_date": "2026-07-21T07:45:46.506655+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure",
             "Free To Play"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486930/header.jpg?t=1719599325"
     },
-    "1962663": {
+    {
+        "appid": "1962663",
         "name": "Call of Duty®: Warzone™",
-        "short_description": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes &amp; new gameplay features across three new geo updates in Fortune's Keep, Endgame (for a limited time), Battle Royale, Black Ops Royale, and Resurgence.",
-        "release_date": "Nov 16, 2022",
-        "developers": [
-            "Infinity Ward",
-            "Raven Software",
-            "Beenox",
-            "Treyarch",
-            "High Moon Studios",
-            "Sledgehammer Games",
-            "Activision Shanghai",
-            "Demonware",
-            "Toys for Bob"
-        ],
-        "publishers": [
-            "Activision"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:47.048679+00:00",
+        "updated_date": "2026-07-21T07:45:47.048679+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Free To Play"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962663/dad01c74cb0909b90e75c40c09e3876a957240aa/header_alt_assets_18.jpg?t=1781624583"
     },
-    "4450800": {
-        "name": "Idols of Ash",
-        "short_description": "Grapple, clamber and fall thousands of meters down into a dark and ancient place in this first-person horror climbing game. You are being hunted.",
-        "release_date": "Apr 9, 2026",
-        "developers": [
-            "Leafy Games"
-        ],
-        "publishers": [
-            "Leafy Games"
-        ],
-        "genres": [
-            "Adventure",
-            "Indie",
-            "Simulation"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": true
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 299,
-            "final_price_cents": 299,
-            "discount_percent": 0,
-            "final_price_formatted": "$2.99"
-        }
-    },
-    "2873660": {
-        "name": "Global Rescue",
-        "short_description": "Build your own base and take command of firefighting, police, EMS, and SWAT operations. Thanks to real map data, you can play right in your hometown - or anywhere in the world! Manage your fleet, hire staff, and take on a variety of authentic operations. In which city are you taking command?",
-        "release_date": "Apr 27, 2026",
-        "developers": [
-            "PeDePe GbR "
-        ],
-        "publishers": [
-            "Aerosoft GmbH "
-        ],
-        "genres": [
-            "Simulation",
-            "Strategy",
-            "Early Access"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 2499,
-            "final_price_cents": 2499,
-            "discount_percent": 0,
-            "final_price_formatted": "$24.99"
-        }
-    },
-    "2302120": {
+    {
+        "appid": "2302120",
         "name": "Infinitum: The Backrooms Story",
-        "short_description": "INFINITUM is a horror open-world survival co-op story game for up to 4 players. Explore endless procedurally generated levels and uncover multiple endings, with every playthrough offering a unique experience.",
-        "release_date": "To be announced",
-        "developers": [
-            "Sabito"
-        ],
-        "publishers": [
-            "Sabito"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:47.684484+00:00",
+        "updated_date": "2026-07-21T07:45:47.684484+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure",
             "Indie",
@@ -1208,511 +231,210 @@
             "Free To Play",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2302120/header.jpg?t=1782177495"
     },
-    "4161620": {
+    {
+        "appid": "4161620",
         "name": "Summer Delicious Simulator",
-        "short_description": "Start your career on the bustling city streets as an ice cream or hotdog vendor! Upgrade your cart, outsmart your rivals, and compete with friends to become the most popular seller in town!",
-        "release_date": "Mar 13, 2026",
-        "developers": [
-            "BitRaiders Games"
-        ],
-        "publishers": [
-            "BitRaiders Games"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:48.355072+00:00",
+        "updated_date": "2026-07-21T07:45:48.355072+00:00",
+        "type": "game",
+        "tags": [
             "Casual",
             "Indie",
             "Simulation"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 599,
-            "final_price_cents": 599,
-            "discount_percent": 0,
-            "final_price_formatted": "$5.99"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4161620/c1c6a4766fa67d3bb340dbb1d000691f7724ac39/header.jpg?t=1774904080"
     },
-    "4157170": {
-        "name": "Sports Card Shop Simulator",
-        "short_description": "Open packs, search for rare cards, and build the best sports card shop. Hunt for holos, autos, and numbered variants to satisfy your collection obsession. Design custom cards and enjoy the thrill of pulling those creations from a fresh pack!",
-        "release_date": "Jun 4, 2026",
-        "developers": [
-            "OverPowered Team"
-        ],
-        "publishers": [
-            "Ultimate Games S.A.",
-            "PlayWay S.A."
-        ],
-        "genres": [
-            "Indie",
-            "Simulation",
-            "Sports",
-            "Early Access"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1299,
-            "final_price_cents": 1299,
-            "discount_percent": 0,
-            "final_price_formatted": "$12.99"
-        }
-    },
-    "2904040": {
-        "name": "Cheap Car Repair",
-        "short_description": "Cheap Car Repair - go back in time to Poland of the 90's. Run your own Cheap Car Repair shop. Look for savings wherever you can. Make lots of money and avoid angry customers!",
-        "release_date": "May 28, 2026",
-        "developers": [
-            "Little Dog Games"
-        ],
-        "publishers": [
-            "Simplicity Games",
-            "PlayWay S.A."
-        ],
-        "genres": [
-            "Adventure",
-            "Indie",
-            "Simulation",
-            "Strategy"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1969,
-            "final_price_cents": 1969,
-            "discount_percent": 0,
-            "final_price_formatted": "$19.69"
-        }
-    },
-    "4669230": {
+    {
+        "appid": "4669230",
         "name": "Traders Life Together",
-        "short_description": "Start your supermarket business and make your own trading Journey! With Co-op support Play solo or team up with friends, featuring over 300 items you can make your dream store, enjoy it with your friends!",
-        "release_date": "May 16, 2026",
-        "developers": [
-            "DNA ARMY GAMING"
-        ],
-        "publishers": [
-            "DNA ARMY GAMING"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:48.997392+00:00",
+        "updated_date": "2026-07-21T07:45:48.997392+00:00",
+        "type": "game",
+        "tags": [
             "Casual",
             "Indie",
             "Simulation"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1999,
-            "final_price_cents": 1999,
-            "discount_percent": 0,
-            "final_price_formatted": "$19.99"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669230/e2efee967e6e7e68c91039945225d6f6888004d3/header.jpg?t=1784289786"
     },
-    "4530690": {
+    {
+        "appid": "4530690",
         "name": "DEPLETED",
-        "short_description": "DEPLETED is an asymmetrical multiplayer horror game where sacrifices must escape a ritualist who hunts them down for blood in order to complete the ritual. Use stealth, teamwork, and strategy to survive.",
-        "release_date": "Apr 6, 2026",
-        "developers": [
-            "[coke.]"
-        ],
-        "publishers": [
-            "[coke.]"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:49.526076+00:00",
+        "updated_date": "2026-07-21T07:45:49.526076+00:00",
+        "type": "game",
+        "tags": [
             "Indie",
             "Free To Play",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530690/50b7cae9795387e5d3bdc4dd616e6c90bc62fc74/header.jpg?t=1778102028"
     },
-    "3475080": {
+    {
+        "appid": "3475080",
         "name": "Roulette Heist",
-        "short_description": "Step into the shadows of a luxurious nightclub casino, don your mask, and join 2 to 4 players in a deadly multiplayer game of wits and chance. Bullets are your only companions in this life-or-death showdown.",
-        "release_date": "Dec 12, 2025",
-        "developers": [
-            "DreamArk Lab"
-        ],
-        "publishers": [
-            "DreamArk Lab"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:50.186158+00:00",
+        "updated_date": "2026-07-21T07:45:50.186158+00:00",
+        "type": "game",
+        "tags": [
             "Adventure",
             "Casual",
             "Indie",
             "Simulation",
             "Strategy"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 699,
-            "final_price_cents": 559,
-            "discount_percent": 20,
-            "final_price_formatted": "$5.59"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3475080/132bf7c2cbfed61edd4100e991f202d3defcfc94/header.jpg?t=1765545635"
     },
-    "291480": {
+    {
+        "appid": "291480",
         "name": "Warface: Clutch",
-        "short_description": "𝗪𝗮𝗿𝗳𝗮𝗰𝗲: 𝗖𝗹𝘂𝘁𝗰𝗵 𝗶𝘀 𝗮 𝗰𝗼𝗻𝘁𝗲𝗺𝗽𝗼𝗿𝗮𝗿𝘆 𝗠𝗠𝗢 𝗳𝗶𝗿𝘀𝘁 𝗽𝗲𝗿𝘀𝗼𝗻 𝘀𝗵𝗼𝗼𝘁𝗲𝗿 𝘄𝗶𝘁𝗵 𝗺𝗶𝗹𝗹𝗶𝗼𝗻𝘀 𝗼𝗳 𝗳𝗮𝗻𝘀 𝗮𝗿𝗼𝘂𝗻𝗱 𝘁𝗵𝗲 𝘄𝗼𝗿𝗹𝗱. 𝗜𝘁 𝗼𝗳𝗳𝗲𝗿𝘀 𝗶𝗻𝘁𝗲𝗻𝘀𝗲 𝗣𝘃𝗣 𝗺𝗼𝗱𝗲𝘀, 𝗰𝗼𝗺𝗽𝗲𝗹𝗹𝗶𝗻𝗴 𝗣𝘃𝗘 𝗺𝗶𝘀𝘀𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗿𝗮𝗶𝗱𝘀 𝘁𝗵𝗮𝘁 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝘄𝗶𝘁𝗵 𝗳𝗶𝘃𝗲 𝗱𝗶𝘃𝗲𝗿𝘀𝗲 𝗰𝗹𝗮𝘀𝘀𝗲𝘀 𝗮𝗻𝗱 𝗮 𝗰𝗼𝗹𝗼𝘀𝘀𝗮𝗹 𝗰𝘂𝘀𝘁𝗼𝗺𝗶𝘇𝗮𝗯𝗹𝗲 𝗮𝗿𝘀𝗲𝗻𝗮𝗹.",
-        "release_date": "Jul 1, 2014",
-        "developers": [
-            "MY.GAMES"
-        ],
-        "publishers": [
-            "MY.GAMES"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:50.826680+00:00",
+        "updated_date": "2026-07-21T07:45:50.826680+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Massively Multiplayer",
             "Free To Play"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291480/a5d53fd96d3f04a4d92e3c71a74e5061db8cc186/header.jpg?t=1772125417"
     },
-    "3814170": {
+    {
+        "appid": "3814170",
         "name": "Cross The Ages: Arise",
-        "short_description": "A free multiplayer action-RPG where every battle tests your reflexes and strategy. Customize your hero, explore a mysterious world with your friends, and face fearsome enemies. Wield unique weapons and prove your worth in epic battles.",
-        "release_date": "Coming soon",
-        "developers": [
-            "Cross The Ages"
-        ],
-        "publishers": [
-            "Cross The Ages"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:51.396232+00:00",
+        "updated_date": "2026-07-21T07:45:51.396232+00:00",
+        "type": "game",
+        "tags": [
             "Massively Multiplayer",
             "RPG",
             "Free To Play",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3814170/9e13c723d6146035f4a5bed047e354cdcbf7cdf3/header.jpg?t=1776071268"
     },
-    "2660510": {
+    {
+        "appid": "2660510",
         "name": "OCTOPinbs",
-        "short_description": "OCTOPinbs is a social deduction multiplayer action game for 3-10 people. Is your fellow firefighter really putting out a fire...or are they actually setting the place ablaze!? Deal with collapsing floors and monitor adjacent rooms as you battle the flames.",
-        "release_date": "May 11, 2026",
-        "developers": [
-            "tri-Ace",
-            "Lasengle Inc."
-        ],
-        "publishers": [
-            "Aniplex Inc."
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:52.014572+00:00",
+        "updated_date": "2026-07-21T07:45:52.014572+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Casual"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 999,
-            "final_price_cents": 699,
-            "discount_percent": 30,
-            "final_price_formatted": "$6.99"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2660510/529bffbac77f2df1d3de144c7ba949cf41fd4c2d/header.jpg?t=1778550157"
     },
-    "4662560": {
+    {
+        "appid": "4662560",
         "name": "For God and For Profit",
-        "short_description": "For God and For Profit is a medieval-Renaissance investigation game. The player learns the essentials of accounting, then applies the principles to balance the book of records. Calm and cozy, yet culminating in thrilling interrogation.",
-        "release_date": "Coming soon",
-        "developers": [
-            "CriesFromTheBellTower"
-        ],
-        "publishers": [
-            "For-God-and-For-Profit"
-        ],
-        "genres": [
-            "Casual",
+        "added_date": "2026-07-21T07:45:52.632830+00:00",
+        "updated_date": "2026-07-21T07:45:52.632830+00:00",
+        "type": "game",
+        "tags": [
+            "Indie",
             "Simulation"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4662560/0fb855cd6d59cde5b67122febb26b09513688c50/header.jpg?t=1784227404"
     },
-    "3869090": {
-        "name": "Beta Kafe : Write Your Love Story",
-        "short_description": "A man with a broken heart, trying to find sex and love—though it’s hard. In this dating simulation, you’ll be facing some of the most terrible first date experiences. It’s cinematic, funny, and brutally honest!",
-        "release_date": "Apr 17, 2026",
-        "developers": [
-            "Cine-mo"
-        ],
-        "publishers": [
-            "Cine-mo"
-        ],
-        "genres": [
-            "Adventure",
-            "Casual",
-            "Simulation"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 699,
-            "final_price_cents": 454,
-            "discount_percent": 35,
-            "final_price_formatted": "$4.54"
-        }
-    },
-    "1858980": {
+    {
+        "appid": "1858980",
         "name": "Gravity Game",
-        "short_description": "A physics based, multiplayer melee shooter. Based on the classic game of sumo, your goal is to claim the ring in the middle. Use grenades, rockets and explosive melee weapons to push your opponents off the stage.",
-        "release_date": "Jan 22, 2022",
-        "developers": [
-            "Parramatta Games Studios"
-        ],
-        "publishers": [
-            "Parramatta Games Studios"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:53.306550+00:00",
+        "updated_date": "2026-07-21T07:45:53.306550+00:00",
+        "type": "game",
+        "tags": [
             "Action"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1858980/header.jpg?t=1673563684"
     },
-    "3453610": {
+    {
+        "appid": "3453610",
         "name": "Hoover Heroes",
-        "short_description": "Hoover Heroes is a chaotic, physics-based multiplayer battle game. Compete online with up to 8 friends in various game modes. In this wild competition full of unpredictable moments, laughter will be flying everywhere. May the best Kevin win!",
-        "release_date": "Nov 20, 2025",
-        "developers": [
-            "Kiki Games"
-        ],
-        "publishers": [
-            "Kiki Games"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:53.824396+00:00",
+        "updated_date": "2026-07-21T07:45:53.824396+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Casual",
             "Indie",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 699,
-            "final_price_cents": 419,
-            "discount_percent": 40,
-            "final_price_formatted": "$4.19"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453610/header.jpg?t=1779667312"
     },
-    "2425130": {
-        "name": "Hacked: The Streamer",
-        "short_description": "You are blackmailed in Hacked: The Streamer. Investigate clues, make impactful decisions, and shape your story to uncover the culprit is in this thrilling interactive movie. The fate of PinkyPie, a fan-favorite streamer, is in your hands.",
-        "release_date": "Apr 6, 2026",
-        "developers": [
-            "Button Interactive",
-            "NAISU"
-        ],
-        "publishers": [
-            "GameDev.ist",
-            "Gamersky Games"
-        ],
-        "genres": [
-            "Adventure",
-            "Indie"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 849,
-            "final_price_cents": 679,
-            "discount_percent": 20,
-            "final_price_formatted": "$6.79"
-        }
-    },
-    "3681580": {
+    {
+        "appid": "3681580",
         "name": "Bowlers : The bowling experience",
-        "short_description": "Bowlers is THE bowling simulation. Create your character, live an adventure, and progress from amateur games to the most prestigious professional tournaments!",
-        "release_date": "Oct 2, 2025",
-        "developers": [
-            "Solid9Games"
-        ],
-        "publishers": [
-            "Solid9Games"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:54.459876+00:00",
+        "updated_date": "2026-07-21T07:45:54.459876+00:00",
+        "type": "game",
+        "tags": [
             "Indie",
             "Simulation",
             "Sports"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1599,
-            "final_price_cents": 879,
-            "discount_percent": 45,
-            "final_price_formatted": "$8.79"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681580/cc9da4dbafff296b775ffa05f280bfbb53c48a35/header.jpg?t=1767561051"
     },
-    "2349100": {
+    {
+        "appid": "2349100",
         "name": "Flipper Soccer",
-        "short_description": "Play a quick game of Flipper Soccer - the game that mixes football with pinball. Control the flippers to score goals against your opponent, who can be your friend or the computer.",
-        "release_date": "Oct 5, 2023",
-        "developers": [
-            "JCP Games Studio"
-        ],
-        "publishers": [
-            "JCP Games Studio"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:55.008242+00:00",
+        "updated_date": "2026-07-21T07:45:55.008242+00:00",
+        "type": "game",
+        "tags": [
             "Casual",
             "Indie",
             "Sports"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 299,
-            "final_price_cents": 74,
-            "discount_percent": 75,
-            "final_price_formatted": "$0.74"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349100/header.jpg?t=1758655444"
     },
-    "3381680": {
-        "name": "Age of History 2: Definitive Edition",
-        "short_description": "The grand strategy classic returns with improved gameplay, a massive 13,892 province map, expanded diplomacy and wartime capitulation, new civilizations and scenarios, atomic weapons, smarter AI, enhanced visuals, UI upgrades, and major performance improvements.",
-        "release_date": "Apr 15, 2026",
-        "developers": [
-            "Łukasz Jakowski"
-        ],
-        "publishers": [
-            "Łukasz Jakowski Games"
-        ],
-        "genres": [
-            "Indie",
-            "Strategy"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 999,
-            "final_price_cents": 669,
-            "discount_percent": 33,
-            "final_price_formatted": "$6.69"
-        }
-    },
-    "3103280": {
+    {
+        "appid": "3103280",
         "name": "DreamWorld: Sandbox MMO",
-        "short_description": "Build incredible structures with powerful tools. Explore the world with all players on one server. Battle bosses, farm, craft, and socialize with friends. How will you shape DreamWorld?",
-        "release_date": "Mar 10, 2026",
-        "developers": [
-            "DreamWorld Realities, Inc."
-        ],
-        "publishers": [
-            "DreamWorld Realities, Inc."
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:55.614734+00:00",
+        "updated_date": "2026-07-21T07:45:55.614734+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure",
             "Casual",
@@ -1720,430 +442,161 @@
             "RPG",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103280/4a379c375c9e52aacdca076e53c90cb3470eeea5/header.jpg?t=1782782769"
     },
-    "3014580": {
+    {
+        "appid": "3014580",
         "name": "Follow Us",
-        "short_description": "2-player asymmetrical co-op game, Follow Us is a hilarious and horrifying relationship stress test, where one player explores a spooky environment, while another guides them remotely from the van, trying to keep their partner alive.",
-        "release_date": "Jun 5, 2026",
-        "developers": [
-            "Game Atelier"
-        ],
-        "publishers": [
-            "Game Atelier"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:56.149660+00:00",
+        "updated_date": "2026-07-21T07:45:56.149660+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1000,
-            "final_price_cents": 1000,
-            "discount_percent": 0,
-            "final_price_formatted": "$10.00"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014580/5815fa5c148881e6a5ddedbfa0b3acb6e2a21259/header.jpg?t=1782812269"
     },
-    "3124540": {
-        "name": "Far Far West",
-        "short_description": "Yee-haw, Cowboys! Team up in this chaotic 1-4 player co-op shooter. Journey to the Far Far West to blast monsters, sling spells, complete missions, and collect bounties. Work as a team to get in, get paid and get out (mostly) alive.",
-        "release_date": "Apr 28, 2026",
-        "developers": [
-            "Evil Raptor"
-        ],
-        "publishers": [
-            "Fireshine Games"
-        ],
-        "genres": [
-            "Action",
-            "Adventure",
-            "Indie",
-            "Early Access"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1999,
-            "final_price_cents": 1799,
-            "discount_percent": 10,
-            "final_price_formatted": "$17.99"
-        }
-    },
-    "3916860": {
-        "name": "The Brewline",
-        "short_description": "Step into the world of bootleg booze in this story-driven, single-player sim! Grow your crops, brew your drinks, bond with eccentric customers, and bottle it all under your own brand. Uncover the truth behind your brother’s arrest, complete quirky missions, and build your underground empire.",
-        "release_date": "Jun 4, 2026",
-        "developers": [
-            "Alcora Games"
-        ],
-        "publishers": [
-            "PlayWay S.A."
-        ],
-        "genres": [
-            "Casual",
-            "Indie",
-            "Simulation"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 999,
-            "final_price_cents": 999,
-            "discount_percent": 0,
-            "final_price_formatted": "$9.99"
-        }
-    },
-    "1575870": {
+    {
+        "appid": "1575870",
         "name": "UpGun",
-        "short_description": "Face your friends in UpGun! Use each round to accumulate skills and overtake your opponents in this crazy deathmatch!",
-        "release_date": "Aug 13, 2021",
-        "developers": [
-            "MaxEstLa",
-            "Zino"
-        ],
-        "publishers": [
-            "MaxEstLa"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:56.675824+00:00",
+        "updated_date": "2026-07-21T07:45:56.675824+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Casual"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575870/header.jpg?t=1772982912"
     },
-    "3241020": {
+    {
+        "appid": "3241020",
         "name": "GEORGIE-YOLKIE™ Enhanced",
-        "short_description": "GEORGIE-YOLKIE™ is an all-new purrfect open-world platformer and collectathon! With huge, beautiful worlds, meet an unforgettable cast of silly characters as buddy-duo Georgie (The cat guy) and Yolkie (The yellow bird) embark on an epic, funny adventure to thwart the evil King Rattie! Now enhanced!",
-        "release_date": "Nov 6, 2024",
-        "developers": [
-            "Spacefarer Games Ltd"
-        ],
-        "publishers": [
-            "Spacefarer Games Ltd"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:57.339959+00:00",
+        "updated_date": "2026-07-21T07:45:57.339959+00:00",
+        "type": "game",
+        "tags": [
             "Adventure",
             "Indie"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": true
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1499,
-            "final_price_cents": 149,
-            "discount_percent": 90,
-            "final_price_formatted": "$1.49"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241020/9b0f77d9d64f9e9eacfc5892f9dc7d011dacb763/header.jpg?t=1781738419"
     },
-    "2271300": {
+    {
+        "appid": "2271300",
         "name": "Safehouse",
-        "short_description": "In Safehouse, play as a member of a criminal crew holed up in a Safehouse with a traitor among you working with the enemy to bring you down. Can you uncover their identity and eliminate them before they betray the crew?",
-        "release_date": "Jan 22, 2023",
-        "developers": [
-            "Gecco Studio Games"
-        ],
-        "publishers": [
-            "Gecco Studio Games"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:57.922312+00:00",
+        "updated_date": "2026-07-21T07:45:57.922312+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Indie",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 599,
-            "final_price_cents": 599,
-            "discount_percent": 0,
-            "final_price_formatted": "$5.99"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271300/header.jpg?t=1674677999"
     },
-    "3554630": {
-        "name": "VMX",
-        "short_description": "Ride BMX, Scooters and MTB in a multiplayer VR skatepark while doing gesture-based tricks. Take on challenges in carefully crafted skateparks and dirt tracks, customize your bike with a realistic spray-painting system, and express your style through a variety of outfits.",
-        "release_date": "Mar 26, 2026",
-        "developers": [
-            "Break Free Interactive"
-        ],
-        "publishers": [
-            "Break Free Interactive"
-        ],
-        "genres": [
-            "Action",
-            "Indie",
-            "Racing",
-            "Simulation",
-            "Sports",
-            "Early Access"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1499,
-            "final_price_cents": 1499,
-            "discount_percent": 0,
-            "final_price_formatted": "$14.99"
-        }
-    },
-    "1682380": {
+    {
+        "appid": "1682380",
         "name": "Survive The Hill",
-        "short_description": "Survive the Hill is an asymmetrical multiplayer/co-op survival experience that supports Solo and 4/8-player options and AI versus scenarios. Blow up the exit areas with your aim to escape. Look for ways to defeat the killer, build your strategy, never wander alone.",
-        "release_date": "Aug 16, 2023",
-        "developers": [
-            "Redivided Studios"
-        ],
-        "publishers": [
-            "Redivided Studios"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:58.533858+00:00",
+        "updated_date": "2026-07-21T07:45:58.533858+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure",
             "Casual",
             "Indie"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1999,
-            "final_price_cents": 999,
-            "discount_percent": 50,
-            "final_price_formatted": "$9.99"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1682380/header.jpg?t=1692380437"
     },
-    "3041230": {
-        "name": "Windrose",
-        "short_description": "Embark on a PvE survival adventure in the Age of Piracy. Fight on land and sea, solo or with friends. Build, craft and explore vast open world filled with dark secrets. Master soulslite combat and take on challenging bosses, command your ship and plunder unspoken treasures!",
-        "release_date": "Apr 14, 2026",
-        "developers": [
-            "Kraken Express"
-        ],
-        "publishers": [
-            "Kraken Express",
-            "Pocketpair Publishing (Japan)"
-        ],
-        "genres": [
-            "Action",
-            "Adventure",
-            "RPG",
-            "Early Access"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 2999,
-            "final_price_cents": 2699,
-            "discount_percent": 10,
-            "final_price_formatted": "$26.99"
-        }
-    },
-    "2387280": {
+    {
+        "appid": "2387280",
         "name": "Operation Space Force",
-        "short_description": "Join Operation Space Force, a free-to-play team-based shooter that takes place in space. Explore weapon customization and different heroes, your base, fight against enemies, and experience different game modes.",
-        "release_date": "Feb 21, 2024",
-        "developers": [
-            "Newton Fun Studio"
-        ],
-        "publishers": [
-            "Newton Fun Studio"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:59.053982+00:00",
+        "updated_date": "2026-07-21T07:45:59.053982+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Indie",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2387280/header.jpg?t=1708569992"
     },
-    "1939920": {
+    {
+        "appid": "1939920",
         "name": "Cyber Clutch: Hot Import Nights",
-        "short_description": "Cyber Clutch: Hot Import Nights is a high intensity arcade combat racer set in a neon future. Compete in ranked online races, unleash tactical abilities and outdrive rivals across chaotic circuits. Choose your ride, customize your style and dominate the track.",
-        "release_date": "Jul 23, 2025",
-        "developers": [
-            "Gunpowder Games",
-            "Focuspoint Studios"
-        ],
-        "publishers": [
-            "Current Games"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:45:59.694072+00:00",
+        "updated_date": "2026-07-21T07:45:59.694072+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Indie",
             "Racing"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1999,
-            "final_price_cents": 799,
-            "discount_percent": 60,
-            "final_price_formatted": "$7.99"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1939920/header.jpg?t=1756220575"
     },
-    "2120790": {
+    {
+        "appid": "2120790",
         "name": "Ringborn",
-        "short_description": "You are Idas, a woodcutter’s son thrust into a medieval world of power and impotence, of beauty and corruption. Enter the world of Ringborn and immerse yourself in a captivating story realised through deep combat, beautiful graphics and impactful player choice.",
-        "release_date": "Jan 12, 2023",
-        "developers": [
-            "Parramatta Games Studios"
-        ],
-        "publishers": [
-            "Parramatta Games Studios"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:46:00.249974+00:00",
+        "updated_date": "2026-07-21T07:46:00.249974+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure",
             "RPG"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1499,
-            "final_price_cents": 1499,
-            "discount_percent": 0,
-            "final_price_formatted": "$14.99"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2120790/header.jpg?t=1673563658"
     },
-    "3634520": {
-        "name": "Samson",
-        "short_description": "Samson returns to Tyndalston, a city that shaped him hard, where every fight is close and every escape is earned. He owes dangerous people more than he can pay, and they’re using his sister to force his hand. The clock is ticking. The only way out is through anyone who stands in his way.",
-        "release_date": "Apr 8, 2026",
-        "developers": [
-            "Liquid Swords"
-        ],
-        "publishers": [
-            "Liquid Swords"
-        ],
-        "genres": [
-            "Action",
-            "Adventure",
-            "Racing"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 2499,
-            "final_price_cents": 1999,
-            "discount_percent": 20,
-            "final_price_formatted": "$19.99"
-        }
-    },
-    "1101180": {
+    {
+        "appid": "1101180",
         "name": "EverStopped",
-        "short_description": "STAND UP SOLDIER! Resume training! Become the best on this FPS Runner game demanding reflexes and precision!",
-        "release_date": "Sep 27, 2019",
-        "developers": [
-            "MaxEstLa",
-            "Mathieu"
-        ],
-        "publishers": [
-            "MaxEstLa"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:46:00.769668+00:00",
+        "updated_date": "2026-07-21T07:46:00.769668+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Casual",
             "Indie"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 499,
-            "final_price_cents": 249,
-            "discount_percent": 50,
-            "final_price_formatted": "$2.49"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101180/header.jpg?t=1639749006"
     },
-    "4260570": {
+    {
+        "appid": "4260570",
         "name": "The Krampus Game",
-        "short_description": "The Krampus Game is a chaotic, scary-fun multiplayer adventure where ancient winter folklore turns into wild holiday mayhem. Inspired by real Krampus and Nikolaus parades, this game brings the tradition to life — but with more monsters, more laughs, and a whole lot more chaos.",
-        "release_date": "Jan 22, 2026",
-        "developers": [
-            "Gaming Limited"
-        ],
-        "publishers": [
-            "Gaming Limited"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:46:01.341648+00:00",
+        "updated_date": "2026-07-21T07:46:01.341648+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure",
             "Casual",
@@ -2151,173 +604,85 @@
             "Massively Multiplayer",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": true,
-            "linux": true
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 2999,
-            "final_price_cents": 2999,
-            "discount_percent": 0,
-            "final_price_formatted": "$29.99"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260570/53660838a3344223be95fa3466c8fbb9246167da/header.jpg?t=1769120689"
     },
-    "938200": {
+    {
+        "appid": "938200",
         "name": "Metric Racer",
-        "short_description": "Race through future cities and across the surface of other planets to out run, out maneuver and out pace your competition. Metric Racer, a fast paced, cartoon shaded futuristic racer.",
-        "release_date": "Feb 23, 2021",
-        "developers": [
-            "Virtex Edge Design"
-        ],
-        "publishers": [
-            "Virtex Edge Design"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:46:01.961311+00:00",
+        "updated_date": "2026-07-21T07:46:01.961311+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Indie",
             "Racing",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": true
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 1999,
-            "final_price_cents": 1999,
-            "discount_percent": 0,
-            "final_price_formatted": "$19.99"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/938200/header.jpg?t=1743699410"
     },
-    "2504540": {
+    {
+        "appid": "2504540",
         "name": "CUBE ROYALE",
-        "short_description": "The agile multiplayer arcade battle royale experience for soldiers of fortune and strategy experts.",
-        "release_date": "Dec 4, 2023",
-        "developers": [
-            "Creature Factory"
-        ],
-        "publishers": [
-            "Creature Factory"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:46:02.583128+00:00",
+        "updated_date": "2026-07-21T07:46:02.583128+00:00",
+        "type": "game",
+        "tags": [
             "Casual",
             "Indie",
             "Strategy",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 999,
-            "final_price_cents": 999,
-            "discount_percent": 0,
-            "final_price_formatted": "$9.99"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504540/header.jpg?t=1707830597"
     },
-    "988250": {
+    {
+        "appid": "988250",
         "name": "TowerHex",
-        "short_description": "Set out on a magical virtual reality quest and explore the fantasy world of TowerHex. Open some portals, kill some dragons, become the hero and find the missing alchemist!",
-        "release_date": "Jan 14, 2019",
-        "developers": [
-            "TowerHex Games"
-        ],
-        "publishers": [
-            "TowerHex Games"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:46:03.152720+00:00",
+        "updated_date": "2026-07-21T07:46:03.152720+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure",
             "Indie",
             "RPG",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 999,
-            "final_price_cents": 999,
-            "discount_percent": 0,
-            "final_price_formatted": "$9.99"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/988250/header.jpg?t=1573837708"
     },
-    "3844970": {
+    {
+        "appid": "3844970",
         "name": "Burglin' Gnomes",
-        "short_description": "An online Co-op game about breaking into houses and causing havoc as a tiny gnome. Avoid danger, repurpose stolen household items, and complete tasks to meet the High-Gnome’s demands. Craft equipment and upgrade your home to make your missions easier and more successful.",
-        "release_date": "Jun 10, 2026",
-        "developers": [
-            "Fobri"
-        ],
-        "publishers": [
-            "Fobri"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:46:03.629146+00:00",
+        "updated_date": "2026-07-21T07:46:03.629146+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 999,
-            "final_price_cents": 999,
-            "discount_percent": 0,
-            "final_price_formatted": "$9.99"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d6127e4eabda23e1d1c727a1875e6b6cb0e634ae/header.jpg?t=1781100001"
     },
-    "1297900": {
-        "name": "Gothic 1 Remake",
-        "short_description": "The Legend is Back - Return to the Valley of the Mines in this faithful remake of the genre-defining classic RPG. Explore a hand-crafted, organic open world that reacts dynamically to your actions in a gritty, unrestricted experience like no other.",
-        "release_date": "Jun 5, 2026",
-        "developers": [
-            "Alkimia Interactive"
-        ],
-        "publishers": [
-            "Alkimia Interactive",
-            "THQ Nordic"
-        ],
-        "genres": [
-            "Action",
-            "RPG"
-        ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 4999,
-            "final_price_cents": 4999,
-            "discount_percent": 0,
-            "final_price_formatted": "$49.99"
-        }
-    },
-    "2224750": {
+    {
+        "appid": "2224750",
         "name": "B1700",
-        "short_description": "B1700 is a medieval fantasy game with PVP and PVE game modes. Boasting a vast selection of medieval weapons and armor in which players can loot to grow your character. Fight in the arena where each kill and death counts towards your battle rating, climb the leader boards and be number one!",
-        "release_date": "Jan 13, 2024",
-        "developers": [
-            "Evraday ltd"
-        ],
-        "publishers": [
-            "Evraday ltd"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:46:04.132464+00:00",
+        "updated_date": "2026-07-21T07:46:04.132464+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure",
             "Casual",
@@ -2328,99 +693,55 @@
             "Free To Play",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 999,
-            "final_price_cents": 999,
-            "discount_percent": 0,
-            "final_price_formatted": "$9.99"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2224750/header.jpg?t=1705461120"
     },
-    "1364980": {
+    {
+        "appid": "1364980",
         "name": "project BLARI",
-        "short_description": "Try to survive in this semi open horror game inspired by the ps1 graphic era.",
-        "release_date": "Oct 20, 2020",
-        "developers": [
-            "MaxEstLa"
-        ],
-        "publishers": [
-            "MaxEstLa"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:46:04.845072+00:00",
+        "updated_date": "2026-07-21T07:46:04.845072+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Adventure",
             "Indie"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 599,
-            "final_price_cents": 359,
-            "discount_percent": 40,
-            "final_price_formatted": "$3.59"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364980/header.jpg?t=1603184820"
     },
-    "2349430": {
+    {
+        "appid": "2349430",
         "name": "Ancestral Players",
-        "short_description": "Hurl fiery axes into rivals' faces, fire arrows with surgical precision, or blast your buddies with explosive coconuts. Paint the arena with the blood of your enemies in this chaotic, skill-based PvP shooter where death is your greatest power-up.",
-        "release_date": "Mar 30, 2026",
-        "developers": [
-            "ENSLIP"
-        ],
-        "publishers": [
-            "ENSLIP"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:46:05.515412+00:00",
+        "updated_date": "2026-07-21T07:46:05.515412+00:00",
+        "type": "game",
+        "tags": [
             "Action",
             "Indie",
             "Early Access"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 585,
-            "final_price_cents": 585,
-            "discount_percent": 0,
-            "final_price_formatted": "$5.85"
-        }
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349430/fdb1d8ae5d98c67017dcfdbbacce8ba28f6266e3/header.jpg?t=1774892886"
     },
-    "2358780": {
+    {
+        "appid": "2358780",
         "name": "The Desolation",
-        "short_description": "The Desolation brings a complete cross-platform co-op looter-shooter experience to PC and mobile devices. Make your impact across endless procedurally generated worlds via cooperative action combat, deep build customization and richly satisfying tactical gameplay.",
-        "release_date": "Coming soon",
-        "developers": [
-            "Stratosphere Games GmbH"
-        ],
-        "publishers": [
-            "Stratosphere Games GmbH"
-        ],
-        "genres": [
+        "added_date": "2026-07-21T07:46:06.096916+00:00",
+        "updated_date": "2026-07-21T07:46:06.096916+00:00",
+        "type": "game",
+        "tags": [
             "Action"
         ],
-        "platforms": {
-            "windows": true,
-            "mac": false,
-            "linux": false
-        },
-        "price_overview": {
-            "currency": "USD",
-            "initial_price_cents": 0,
-            "final_price_cents": 0,
-            "discount_percent": 0,
-            "final_price_formatted": "Free"
-        }
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358780/header.jpg?t=1749753397"
     }
-}
+]
