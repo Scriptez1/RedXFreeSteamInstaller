@@ -23,7 +23,7 @@ if (Test-Path $registryPath) {
     }
     
     $steamPath = $steamPath -replace '/', '\'
-    $targets = @("xinput1_4.dll", "version.dll", "appcache", "package")
+    $targets = @("xinput1_4.dll", "version.dll", "appcache", "package", "dwmapi.dll")
 
     foreach ($target in $targets) {
         $fullPath = Join-Path $steamPath $target
